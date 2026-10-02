@@ -1,0 +1,2891 @@
+case,setting,options,outcome,lu
+case18482,S1 paper,paper,solved,6
+case18482,S1 paper,adaptive,solved,6
+case18482,S1 paper,PC,solved,6
+case18482,S1 paper,PC + adaptive,solved,6
+case18482,S1 paper,OM,solved,5
+case18482,S1 paper,OM + adaptive,solved,5
+case18482,S1 paper,OM + PC,solved,6
+case18482,S1 paper,OM + PC + adaptive,solved,6
+case18482,S1 paper,richardson,solved,7
+case18482,S1 paper,richardson + FE,solved,43
+case18482,S1 paper,richardson + RK2,solved,46
+case18482,S1 paper,richardson + RK4,solved,88
+case18482,S1 paper,OM + richardson,solved,7
+case18482,S1 paper,BE-chord,other root,6
+case18482,S1 paper,RK4,failed,15
+case18482,S1 paper,scaled homotopy,solved,6
+case18482,S1 paper,newton homotopy,failed,12
+case18482,S2 Sec 4.4,paper,solved,6
+case18482,S2 Sec 4.4,adaptive,solved,6
+case18482,S2 Sec 4.4,PC,solved,6
+case18482,S2 Sec 4.4,PC + adaptive,solved,6
+case18482,S2 Sec 4.4,OM,solved,6
+case18482,S2 Sec 4.4,OM + adaptive,solved,6
+case18482,S2 Sec 4.4,OM + PC,solved,6
+case18482,S2 Sec 4.4,OM + PC + adaptive,solved,6
+case18482,S2 Sec 4.4,richardson,solved,7
+case18482,S2 Sec 4.4,richardson + FE,solved,31
+case18482,S2 Sec 4.4,richardson + RK2,solved,28
+case18482,S2 Sec 4.4,richardson + RK4,solved,76
+case18482,S2 Sec 4.4,OM + richardson,solved,7
+case18482,S2 Sec 4.4,BE-chord,solved,7
+case18482,S2 Sec 4.4,RK4,failed,15
+case18482,S2 Sec 4.4,scaled homotopy,solved,6
+case18482,S2 Sec 4.4,newton homotopy,solved,9
+case18482,S3 Sec 4.4,paper,solved,6
+case18482,S3 Sec 4.4,adaptive,solved,6
+case18482,S3 Sec 4.4,PC,solved,6
+case18482,S3 Sec 4.4,PC + adaptive,solved,6
+case18482,S3 Sec 4.4,OM,solved,6
+case18482,S3 Sec 4.4,OM + adaptive,solved,6
+case18482,S3 Sec 4.4,OM + PC,solved,6
+case18482,S3 Sec 4.4,OM + PC + adaptive,solved,6
+case18482,S3 Sec 4.4,richardson,solved,8
+case18482,S3 Sec 4.4,richardson + FE,solved,29
+case18482,S3 Sec 4.4,richardson + RK2,solved,29
+case18482,S3 Sec 4.4,richardson + RK4,solved,17
+case18482,S3 Sec 4.4,OM + richardson,solved,8
+case18482,S3 Sec 4.4,BE-chord,other root,7
+case18482,S3 Sec 4.4,RK4,failed,15
+case18482,S3 Sec 4.4,scaled homotopy,solved,6
+case18482,S3 Sec 4.4,newton homotopy,solved,9
+case18482,S4 weak K,paper,solved,7
+case18482,S4 weak K,adaptive,solved,7
+case18482,S4 weak K,PC,solved,7
+case18482,S4 weak K,PC + adaptive,solved,7
+case18482,S4 weak K,OM,solved,7
+case18482,S4 weak K,OM + adaptive,solved,7
+case18482,S4 weak K,OM + PC,solved,7
+case18482,S4 weak K,OM + PC + adaptive,solved,7
+case18482,S4 weak K,richardson,solved,8
+case18482,S4 weak K,richardson + FE,solved,52
+case18482,S4 weak K,richardson + RK2,solved,46
+case18482,S4 weak K,richardson + RK4,solved,88
+case18482,S4 weak K,OM + richardson,solved,8
+case18482,S4 weak K,BE-chord,failed,12
+case18482,S4 weak K,RK4,failed,15
+case18482,S4 weak K,scaled homotopy,solved,7
+case18482,S4 weak K,newton homotopy,failed,12
+case18482,S5 strong K,paper,solved,5
+case18482,S5 strong K,adaptive,solved,5
+case18482,S5 strong K,PC,solved,6
+case18482,S5 strong K,PC + adaptive,solved,6
+case18482,S5 strong K,OM,solved,5
+case18482,S5 strong K,OM + adaptive,solved,5
+case18482,S5 strong K,OM + PC,solved,6
+case18482,S5 strong K,OM + PC + adaptive,solved,6
+case18482,S5 strong K,richardson,solved,7
+case18482,S5 strong K,richardson + FE,solved,40
+case18482,S5 strong K,richardson + RK2,solved,46
+case18482,S5 strong K,richardson + RK4,other root,100
+case18482,S5 strong K,OM + richardson,solved,7
+case18482,S5 strong K,BE-chord,other root,6
+case18482,S5 strong K,RK4,failed,15
+case18482,S5 strong K,scaled homotopy,solved,5
+case18482,S5 strong K,newton homotopy,failed,12
+case27318,S1 paper,paper,solved,6
+case27318,S1 paper,adaptive,solved,6
+case27318,S1 paper,PC,solved,6
+case27318,S1 paper,PC + adaptive,solved,6
+case27318,S1 paper,OM,solved,6
+case27318,S1 paper,OM + adaptive,solved,6
+case27318,S1 paper,OM + PC,solved,6
+case27318,S1 paper,OM + PC + adaptive,solved,6
+case27318,S1 paper,richardson,solved,7
+case27318,S1 paper,richardson + FE,solved,29
+case27318,S1 paper,richardson + RK2,solved,46
+case27318,S1 paper,richardson + RK4,solved,88
+case27318,S1 paper,OM + richardson,solved,7
+case27318,S1 paper,BE-chord,other root,7
+case27318,S1 paper,RK4,failed,15
+case27318,S1 paper,scaled homotopy,solved,6
+case27318,S1 paper,newton homotopy,solved,8
+case27318,S2 Sec 4.4,paper,solved,7
+case27318,S2 Sec 4.4,adaptive,solved,7
+case27318,S2 Sec 4.4,PC,solved,6
+case27318,S2 Sec 4.4,PC + adaptive,solved,6
+case27318,S2 Sec 4.4,OM,solved,6
+case27318,S2 Sec 4.4,OM + adaptive,solved,6
+case27318,S2 Sec 4.4,OM + PC,solved,6
+case27318,S2 Sec 4.4,OM + PC + adaptive,solved,6
+case27318,S2 Sec 4.4,richardson,solved,8
+case27318,S2 Sec 4.4,richardson + FE,solved,20
+case27318,S2 Sec 4.4,richardson + RK2,solved,29
+case27318,S2 Sec 4.4,richardson + RK4,solved,53
+case27318,S2 Sec 4.4,OM + richardson,solved,8
+case27318,S2 Sec 4.4,BE-chord,other root,8
+case27318,S2 Sec 4.4,RK4,failed,15
+case27318,S2 Sec 4.4,scaled homotopy,solved,7
+case27318,S2 Sec 4.4,newton homotopy,other root,7
+case27318,S3 Sec 4.4,paper,solved,8
+case27318,S3 Sec 4.4,adaptive,solved,8
+case27318,S3 Sec 4.4,PC,solved,6
+case27318,S3 Sec 4.4,PC + adaptive,solved,6
+case27318,S3 Sec 4.4,OM,solved,7
+case27318,S3 Sec 4.4,OM + adaptive,solved,7
+case27318,S3 Sec 4.4,OM + PC,solved,6
+case27318,S3 Sec 4.4,OM + PC + adaptive,solved,6
+case27318,S3 Sec 4.4,richardson,failed,14
+case27318,S3 Sec 4.4,richardson + FE,other root,21
+case27318,S3 Sec 4.4,richardson + RK2,solved,30
+case27318,S3 Sec 4.4,richardson + RK4,failed,47
+case27318,S3 Sec 4.4,OM + richardson,solved,8
+case27318,S3 Sec 4.4,BE-chord,other root,9
+case27318,S3 Sec 4.4,RK4,failed,15
+case27318,S3 Sec 4.4,scaled homotopy,failed,12
+case27318,S3 Sec 4.4,newton homotopy,failed,12
+case27318,S4 weak K,paper,other root,6
+case27318,S4 weak K,adaptive,other root,6
+case27318,S4 weak K,PC,solved,8
+case27318,S4 weak K,PC + adaptive,solved,20
+case27318,S4 weak K,OM,other root,6
+case27318,S4 weak K,OM + adaptive,other root,6
+case27318,S4 weak K,OM + PC,solved,8
+case27318,S4 weak K,OM + PC + adaptive,solved,20
+case27318,S4 weak K,richardson,other root,7
+case27318,S4 weak K,richardson + FE,solved,40
+case27318,S4 weak K,richardson + RK2,solved,52
+case27318,S4 weak K,richardson + RK4,solved,100
+case27318,S4 weak K,OM + richardson,other root,7
+case27318,S4 weak K,BE-chord,solved,7
+case27318,S4 weak K,RK4,failed,15
+case27318,S4 weak K,scaled homotopy,other root,6
+case27318,S4 weak K,newton homotopy,solved,8
+case27318,S5 strong K,paper,other root,7
+case27318,S5 strong K,adaptive,other root,7
+case27318,S5 strong K,PC,solved,8
+case27318,S5 strong K,PC + adaptive,solved,9
+case27318,S5 strong K,OM,solved,7
+case27318,S5 strong K,OM + adaptive,solved,7
+case27318,S5 strong K,OM + PC,solved,8
+case27318,S5 strong K,OM + PC + adaptive,solved,9
+case27318,S5 strong K,richardson,solved,13
+case27318,S5 strong K,richardson + FE,solved,31
+case27318,S5 strong K,richardson + RK2,solved,46
+case27318,S5 strong K,richardson + RK4,solved,76
+case27318,S5 strong K,OM + richardson,solved,13
+case27318,S5 strong K,BE-chord,solved,8
+case27318,S5 strong K,RK4,failed,15
+case27318,S5 strong K,scaled homotopy,solved,8
+case27318,S5 strong K,newton homotopy,solved,8
+case36964,S1 paper,paper,solved,6
+case36964,S1 paper,adaptive,solved,6
+case36964,S1 paper,PC,solved,6
+case36964,S1 paper,PC + adaptive,solved,6
+case36964,S1 paper,OM,solved,6
+case36964,S1 paper,OM + adaptive,solved,6
+case36964,S1 paper,OM + PC,solved,6
+case36964,S1 paper,OM + PC + adaptive,solved,6
+case36964,S1 paper,richardson,solved,13
+case36964,S1 paper,richardson + FE,solved,46
+case36964,S1 paper,richardson + RK2,solved,46
+case36964,S1 paper,richardson + RK4,solved,88
+case36964,S1 paper,OM + richardson,solved,13
+case36964,S1 paper,BE-chord,failed,12
+case36964,S1 paper,RK4,failed,15
+case36964,S1 paper,scaled homotopy,solved,6
+case36964,S1 paper,newton homotopy,failed,12
+case36964,S2 Sec 4.4,paper,failed,12
+case36964,S2 Sec 4.4,adaptive,failed,12
+case36964,S2 Sec 4.4,PC,solved,6
+case36964,S2 Sec 4.4,PC + adaptive,solved,6
+case36964,S2 Sec 4.4,OM,solved,8
+case36964,S2 Sec 4.4,OM + adaptive,solved,8
+case36964,S2 Sec 4.4,OM + PC,solved,6
+case36964,S2 Sec 4.4,OM + PC + adaptive,solved,6
+case36964,S2 Sec 4.4,richardson,solved,10
+case36964,S2 Sec 4.4,richardson + FE,solved,33
+case36964,S2 Sec 4.4,richardson + RK2,solved,36
+case36964,S2 Sec 4.4,richardson + RK4,solved,55
+case36964,S2 Sec 4.4,OM + richardson,solved,9
+case36964,S2 Sec 4.4,BE-chord,other root,10
+case36964,S2 Sec 4.4,RK4,failed,15
+case36964,S2 Sec 4.4,scaled homotopy,failed,12
+case36964,S2 Sec 4.4,newton homotopy,failed,12
+case36964,S3 Sec 4.4,paper,failed,12
+case36964,S3 Sec 4.4,adaptive,failed,12
+case36964,S3 Sec 4.4,PC,solved,6
+case36964,S3 Sec 4.4,PC + adaptive,solved,6
+case36964,S3 Sec 4.4,OM,other root,9
+case36964,S3 Sec 4.4,OM + adaptive,other root,9
+case36964,S3 Sec 4.4,OM + PC,solved,6
+case36964,S3 Sec 4.4,OM + PC + adaptive,solved,6
+case36964,S3 Sec 4.4,richardson,other root,19
+case36964,S3 Sec 4.4,richardson + FE,solved,52
+case36964,S3 Sec 4.4,richardson + RK2,solved,30
+case36964,S3 Sec 4.4,richardson + RK4,solved,44
+case36964,S3 Sec 4.4,OM + richardson,solved,15
+case36964,S3 Sec 4.4,BE-chord,failed,12
+case36964,S3 Sec 4.4,RK4,failed,15
+case36964,S3 Sec 4.4,scaled homotopy,failed,12
+case36964,S3 Sec 4.4,newton homotopy,failed,12
+case36964,S4 weak K,paper,failed,12
+case36964,S4 weak K,adaptive,other root,18
+case36964,S4 weak K,PC,failed,14
+case36964,S4 weak K,PC + adaptive,failed,26
+case36964,S4 weak K,OM,failed,12
+case36964,S4 weak K,OM + adaptive,other root,17
+case36964,S4 weak K,OM + PC,failed,14
+case36964,S4 weak K,OM + PC + adaptive,failed,26
+case36964,S4 weak K,richardson,failed,151
+case36964,S4 weak K,richardson + FE,failed,151
+case36964,S4 weak K,richardson + RK2,failed,151
+case36964,S4 weak K,richardson + RK4,failed,157
+case36964,S4 weak K,OM + richardson,failed,151
+case36964,S4 weak K,BE-chord,failed,12
+case36964,S4 weak K,RK4,failed,15
+case36964,S4 weak K,scaled homotopy,failed,12
+case36964,S4 weak K,newton homotopy,failed,12
+case36964,S5 strong K,paper,solved,6
+case36964,S5 strong K,adaptive,solved,6
+case36964,S5 strong K,PC,solved,7
+case36964,S5 strong K,PC + adaptive,solved,7
+case36964,S5 strong K,OM,solved,6
+case36964,S5 strong K,OM + adaptive,solved,6
+case36964,S5 strong K,OM + PC,solved,7
+case36964,S5 strong K,OM + PC + adaptive,solved,7
+case36964,S5 strong K,richardson,solved,13
+case36964,S5 strong K,richardson + FE,solved,40
+case36964,S5 strong K,richardson + RK2,solved,52
+case36964,S5 strong K,richardson + RK4,solved,88
+case36964,S5 strong K,OM + richardson,solved,13
+case36964,S5 strong K,BE-chord,other root,7
+case36964,S5 strong K,RK4,failed,11
+case36964,S5 strong K,scaled homotopy,solved,6
+case36964,S5 strong K,newton homotopy,failed,12
+case54636,S1 paper,paper,solved,6
+case54636,S1 paper,adaptive,solved,6
+case54636,S1 paper,PC,solved,6
+case54636,S1 paper,PC + adaptive,solved,6
+case54636,S1 paper,OM,solved,6
+case54636,S1 paper,OM + adaptive,solved,6
+case54636,S1 paper,OM + PC,solved,6
+case54636,S1 paper,OM + PC + adaptive,solved,6
+case54636,S1 paper,richardson,solved,7
+case54636,S1 paper,richardson + FE,solved,29
+case54636,S1 paper,richardson + RK2,solved,46
+case54636,S1 paper,richardson + RK4,solved,88
+case54636,S1 paper,OM + richardson,solved,7
+case54636,S1 paper,BE-chord,other root,7
+case54636,S1 paper,RK4,failed,15
+case54636,S1 paper,scaled homotopy,solved,6
+case54636,S1 paper,newton homotopy,solved,8
+case54636,S2 Sec 4.4,paper,solved,7
+case54636,S2 Sec 4.4,adaptive,solved,7
+case54636,S2 Sec 4.4,PC,solved,6
+case54636,S2 Sec 4.4,PC + adaptive,solved,6
+case54636,S2 Sec 4.4,OM,solved,6
+case54636,S2 Sec 4.4,OM + adaptive,solved,6
+case54636,S2 Sec 4.4,OM + PC,solved,6
+case54636,S2 Sec 4.4,OM + PC + adaptive,solved,6
+case54636,S2 Sec 4.4,richardson,solved,8
+case54636,S2 Sec 4.4,richardson + FE,solved,20
+case54636,S2 Sec 4.4,richardson + RK2,solved,29
+case54636,S2 Sec 4.4,richardson + RK4,solved,53
+case54636,S2 Sec 4.4,OM + richardson,solved,8
+case54636,S2 Sec 4.4,BE-chord,other root,8
+case54636,S2 Sec 4.4,RK4,failed,15
+case54636,S2 Sec 4.4,scaled homotopy,solved,7
+case54636,S2 Sec 4.4,newton homotopy,other root,7
+case54636,S3 Sec 4.4,paper,other root,9
+case54636,S3 Sec 4.4,adaptive,other root,9
+case54636,S3 Sec 4.4,PC,solved,6
+case54636,S3 Sec 4.4,PC + adaptive,solved,6
+case54636,S3 Sec 4.4,OM,solved,7
+case54636,S3 Sec 4.4,OM + adaptive,solved,7
+case54636,S3 Sec 4.4,OM + PC,solved,6
+case54636,S3 Sec 4.4,OM + PC + adaptive,solved,6
+case54636,S3 Sec 4.4,richardson,failed,14
+case54636,S3 Sec 4.4,richardson + FE,other root,20
+case54636,S3 Sec 4.4,richardson + RK2,failed,35
+case54636,S3 Sec 4.4,richardson + RK4,failed,47
+case54636,S3 Sec 4.4,OM + richardson,solved,8
+case54636,S3 Sec 4.4,BE-chord,failed,12
+case54636,S3 Sec 4.4,RK4,failed,15
+case54636,S3 Sec 4.4,scaled homotopy,failed,12
+case54636,S3 Sec 4.4,newton homotopy,failed,12
+case54636,S4 weak K,paper,other root,6
+case54636,S4 weak K,adaptive,other root,6
+case54636,S4 weak K,PC,solved,10
+case54636,S4 weak K,PC + adaptive,solved,28
+case54636,S4 weak K,OM,other root,6
+case54636,S4 weak K,OM + adaptive,other root,6
+case54636,S4 weak K,OM + PC,solved,10
+case54636,S4 weak K,OM + PC + adaptive,solved,28
+case54636,S4 weak K,richardson,other root,7
+case54636,S4 weak K,richardson + FE,solved,40
+case54636,S4 weak K,richardson + RK2,solved,52
+case54636,S4 weak K,richardson + RK4,solved,112
+case54636,S4 weak K,OM + richardson,other root,7
+case54636,S4 weak K,BE-chord,other root,7
+case54636,S4 weak K,RK4,failed,15
+case54636,S4 weak K,scaled homotopy,other root,6
+case54636,S4 weak K,newton homotopy,solved,8
+case54636,S5 strong K,paper,other root,7
+case54636,S5 strong K,adaptive,other root,7
+case54636,S5 strong K,PC,solved,8
+case54636,S5 strong K,PC + adaptive,solved,9
+case54636,S5 strong K,OM,solved,7
+case54636,S5 strong K,OM + adaptive,solved,7
+case54636,S5 strong K,OM + PC,solved,8
+case54636,S5 strong K,OM + PC + adaptive,solved,9
+case54636,S5 strong K,richardson,solved,13
+case54636,S5 strong K,richardson + FE,solved,31
+case54636,S5 strong K,richardson + RK2,solved,46
+case54636,S5 strong K,richardson + RK4,solved,76
+case54636,S5 strong K,OM + richardson,solved,13
+case54636,S5 strong K,BE-chord,solved,8
+case54636,S5 strong K,RK4,failed,15
+case54636,S5 strong K,scaled homotopy,solved,8
+case54636,S5 strong K,newton homotopy,solved,8
+case109272,S1 paper,paper,solved,6
+case109272,S1 paper,adaptive,solved,6
+case109272,S1 paper,PC,solved,6
+case109272,S1 paper,PC + adaptive,solved,6
+case109272,S1 paper,OM,solved,6
+case109272,S1 paper,OM + adaptive,solved,6
+case109272,S1 paper,OM + PC,solved,6
+case109272,S1 paper,OM + PC + adaptive,solved,6
+case109272,S1 paper,richardson,solved,7
+case109272,S1 paper,richardson + FE,solved,29
+case109272,S1 paper,richardson + RK2,solved,46
+case109272,S1 paper,richardson + RK4,solved,88
+case109272,S1 paper,OM + richardson,solved,7
+case109272,S1 paper,BE-chord,other root,12
+case109272,S1 paper,RK4,failed,15
+case109272,S1 paper,scaled homotopy,solved,6
+case109272,S1 paper,newton homotopy,other root,8
+case109272,S2 Sec 4.4,paper,solved,7
+case109272,S2 Sec 4.4,adaptive,solved,7
+case109272,S2 Sec 4.4,PC,solved,6
+case109272,S2 Sec 4.4,PC + adaptive,solved,6
+case109272,S2 Sec 4.4,OM,solved,6
+case109272,S2 Sec 4.4,OM + adaptive,solved,6
+case109272,S2 Sec 4.4,OM + PC,solved,6
+case109272,S2 Sec 4.4,OM + PC + adaptive,solved,6
+case109272,S2 Sec 4.4,richardson,solved,8
+case109272,S2 Sec 4.4,richardson + FE,solved,20
+case109272,S2 Sec 4.4,richardson + RK2,solved,29
+case109272,S2 Sec 4.4,richardson + RK4,solved,53
+case109272,S2 Sec 4.4,OM + richardson,solved,8
+case109272,S2 Sec 4.4,BE-chord,other root,11
+case109272,S2 Sec 4.4,RK4,failed,15
+case109272,S2 Sec 4.4,scaled homotopy,solved,7
+case109272,S2 Sec 4.4,newton homotopy,other root,8
+case109272,S3 Sec 4.4,paper,other root,10
+case109272,S3 Sec 4.4,adaptive,other root,10
+case109272,S3 Sec 4.4,PC,solved,6
+case109272,S3 Sec 4.4,PC + adaptive,solved,6
+case109272,S3 Sec 4.4,OM,solved,7
+case109272,S3 Sec 4.4,OM + adaptive,solved,7
+case109272,S3 Sec 4.4,OM + PC,solved,6
+case109272,S3 Sec 4.4,OM + PC + adaptive,solved,6
+case109272,S3 Sec 4.4,richardson,failed,14
+case109272,S3 Sec 4.4,richardson + FE,failed,23
+case109272,S3 Sec 4.4,richardson + RK2,other root,30
+case109272,S3 Sec 4.4,richardson + RK4,failed,47
+case109272,S3 Sec 4.4,OM + richardson,solved,8
+case109272,S3 Sec 4.4,BE-chord,failed,12
+case109272,S3 Sec 4.4,RK4,failed,15
+case109272,S3 Sec 4.4,scaled homotopy,failed,12
+case109272,S3 Sec 4.4,newton homotopy,failed,12
+case109272,S4 weak K,paper,other root,6
+case109272,S4 weak K,adaptive,other root,6
+case109272,S4 weak K,PC,other root,10
+case109272,S4 weak K,PC + adaptive,failed,16
+case109272,S4 weak K,OM,other root,6
+case109272,S4 weak K,OM + adaptive,other root,6
+case109272,S4 weak K,OM + PC,other root,9
+case109272,S4 weak K,OM + PC + adaptive,failed,16
+case109272,S4 weak K,richardson,other root,7
+case109272,S4 weak K,richardson + FE,solved,40
+case109272,S4 weak K,richardson + RK2,solved,64
+case109272,S4 weak K,richardson + RK4,solved,100
+case109272,S4 weak K,OM + richardson,other root,7
+case109272,S4 weak K,BE-chord,failed,12
+case109272,S4 weak K,RK4,failed,15
+case109272,S4 weak K,scaled homotopy,other root,6
+case109272,S4 weak K,newton homotopy,other root,8
+case109272,S5 strong K,paper,other root,7
+case109272,S5 strong K,adaptive,other root,7
+case109272,S5 strong K,PC,solved,8
+case109272,S5 strong K,PC + adaptive,solved,9
+case109272,S5 strong K,OM,solved,7
+case109272,S5 strong K,OM + adaptive,solved,7
+case109272,S5 strong K,OM + PC,solved,8
+case109272,S5 strong K,OM + PC + adaptive,solved,9
+case109272,S5 strong K,richardson,solved,13
+case109272,S5 strong K,richardson + FE,solved,31
+case109272,S5 strong K,richardson + RK2,solved,46
+case109272,S5 strong K,richardson + RK4,solved,76
+case109272,S5 strong K,OM + richardson,solved,13
+case109272,S5 strong K,BE-chord,other root,10
+case109272,S5 strong K,RK4,failed,15
+case109272,S5 strong K,scaled homotopy,solved,8
+case109272,S5 strong K,newton homotopy,other root,8
+case69limit,S1 paper,paper,solved,3
+case69limit,S1 paper,adaptive,solved,3
+case69limit,S1 paper,PC,solved,4
+case69limit,S1 paper,PC + adaptive,solved,4
+case69limit,S1 paper,OM,solved,3
+case69limit,S1 paper,OM + adaptive,solved,3
+case69limit,S1 paper,OM + PC,solved,4
+case69limit,S1 paper,OM + PC + adaptive,solved,4
+case69limit,S1 paper,richardson,solved,5
+case69limit,S1 paper,richardson + FE,solved,8
+case69limit,S1 paper,richardson + RK2,solved,9
+case69limit,S1 paper,richardson + RK4,solved,15
+case69limit,S1 paper,OM + richardson,solved,5
+case69limit,S1 paper,BE-chord,solved,3
+case69limit,S1 paper,RK4,solved,7
+case69limit,S1 paper,scaled homotopy,solved,3
+case69limit,S1 paper,newton homotopy,solved,3
+case69limit,S2 Sec 4.4,paper,solved,3
+case69limit,S2 Sec 4.4,adaptive,solved,3
+case69limit,S2 Sec 4.4,PC,solved,4
+case69limit,S2 Sec 4.4,PC + adaptive,solved,4
+case69limit,S2 Sec 4.4,OM,solved,3
+case69limit,S2 Sec 4.4,OM + adaptive,solved,3
+case69limit,S2 Sec 4.4,OM + PC,solved,4
+case69limit,S2 Sec 4.4,OM + PC + adaptive,solved,4
+case69limit,S2 Sec 4.4,richardson,solved,5
+case69limit,S2 Sec 4.4,richardson + FE,solved,6
+case69limit,S2 Sec 4.4,richardson + RK2,solved,8
+case69limit,S2 Sec 4.4,richardson + RK4,solved,14
+case69limit,S2 Sec 4.4,OM + richardson,solved,5
+case69limit,S2 Sec 4.4,BE-chord,solved,3
+case69limit,S2 Sec 4.4,RK4,solved,6
+case69limit,S2 Sec 4.4,scaled homotopy,solved,3
+case69limit,S2 Sec 4.4,newton homotopy,solved,3
+case69limit,S3 Sec 4.4,paper,solved,3
+case69limit,S3 Sec 4.4,adaptive,solved,3
+case69limit,S3 Sec 4.4,PC,solved,4
+case69limit,S3 Sec 4.4,PC + adaptive,solved,4
+case69limit,S3 Sec 4.4,OM,solved,3
+case69limit,S3 Sec 4.4,OM + adaptive,solved,3
+case69limit,S3 Sec 4.4,OM + PC,solved,4
+case69limit,S3 Sec 4.4,OM + PC + adaptive,solved,4
+case69limit,S3 Sec 4.4,richardson,solved,5
+case69limit,S3 Sec 4.4,richardson + FE,solved,6
+case69limit,S3 Sec 4.4,richardson + RK2,solved,8
+case69limit,S3 Sec 4.4,richardson + RK4,solved,14
+case69limit,S3 Sec 4.4,OM + richardson,solved,5
+case69limit,S3 Sec 4.4,BE-chord,solved,4
+case69limit,S3 Sec 4.4,RK4,solved,6
+case69limit,S3 Sec 4.4,scaled homotopy,solved,3
+case69limit,S3 Sec 4.4,newton homotopy,solved,3
+case69limit,S4 weak K,paper,solved,3
+case69limit,S4 weak K,adaptive,solved,3
+case69limit,S4 weak K,PC,solved,4
+case69limit,S4 weak K,PC + adaptive,solved,4
+case69limit,S4 weak K,OM,solved,3
+case69limit,S4 weak K,OM + adaptive,solved,3
+case69limit,S4 weak K,OM + PC,solved,4
+case69limit,S4 weak K,OM + PC + adaptive,solved,4
+case69limit,S4 weak K,richardson,solved,5
+case69limit,S4 weak K,richardson + FE,solved,7
+case69limit,S4 weak K,richardson + RK2,solved,8
+case69limit,S4 weak K,richardson + RK4,solved,14
+case69limit,S4 weak K,OM + richardson,solved,5
+case69limit,S4 weak K,BE-chord,solved,3
+case69limit,S4 weak K,RK4,solved,7
+case69limit,S4 weak K,scaled homotopy,solved,3
+case69limit,S4 weak K,newton homotopy,solved,3
+case69limit,S5 strong K,paper,solved,3
+case69limit,S5 strong K,adaptive,solved,3
+case69limit,S5 strong K,PC,solved,4
+case69limit,S5 strong K,PC + adaptive,solved,4
+case69limit,S5 strong K,OM,solved,3
+case69limit,S5 strong K,OM + adaptive,solved,3
+case69limit,S5 strong K,OM + PC,solved,4
+case69limit,S5 strong K,OM + PC + adaptive,solved,4
+case69limit,S5 strong K,richardson,solved,5
+case69limit,S5 strong K,richardson + FE,solved,15
+case69limit,S5 strong K,richardson + RK2,solved,12
+case69limit,S5 strong K,richardson + RK4,solved,16
+case69limit,S5 strong K,OM + richardson,solved,5
+case69limit,S5 strong K,BE-chord,solved,3
+case69limit,S5 strong K,RK4,solved,11
+case69limit,S5 strong K,scaled homotopy,solved,3
+case69limit,S5 strong K,newton homotopy,solved,3
+case141limit,S1 paper,paper,solved,3
+case141limit,S1 paper,adaptive,solved,3
+case141limit,S1 paper,PC,solved,4
+case141limit,S1 paper,PC + adaptive,solved,4
+case141limit,S1 paper,OM,solved,3
+case141limit,S1 paper,OM + adaptive,solved,3
+case141limit,S1 paper,OM + PC,solved,4
+case141limit,S1 paper,OM + PC + adaptive,solved,4
+case141limit,S1 paper,richardson,solved,5
+case141limit,S1 paper,richardson + FE,solved,8
+case141limit,S1 paper,richardson + RK2,solved,9
+case141limit,S1 paper,richardson + RK4,solved,15
+case141limit,S1 paper,OM + richardson,solved,5
+case141limit,S1 paper,BE-chord,solved,3
+case141limit,S1 paper,RK4,solved,7
+case141limit,S1 paper,scaled homotopy,solved,3
+case141limit,S1 paper,newton homotopy,solved,3
+case141limit,S2 Sec 4.4,paper,solved,3
+case141limit,S2 Sec 4.4,adaptive,solved,3
+case141limit,S2 Sec 4.4,PC,solved,4
+case141limit,S2 Sec 4.4,PC + adaptive,solved,4
+case141limit,S2 Sec 4.4,OM,solved,3
+case141limit,S2 Sec 4.4,OM + adaptive,solved,3
+case141limit,S2 Sec 4.4,OM + PC,solved,4
+case141limit,S2 Sec 4.4,OM + PC + adaptive,solved,4
+case141limit,S2 Sec 4.4,richardson,solved,5
+case141limit,S2 Sec 4.4,richardson + FE,solved,7
+case141limit,S2 Sec 4.4,richardson + RK2,solved,8
+case141limit,S2 Sec 4.4,richardson + RK4,solved,14
+case141limit,S2 Sec 4.4,OM + richardson,solved,5
+case141limit,S2 Sec 4.4,BE-chord,solved,4
+case141limit,S2 Sec 4.4,RK4,solved,6
+case141limit,S2 Sec 4.4,scaled homotopy,solved,3
+case141limit,S2 Sec 4.4,newton homotopy,solved,3
+case141limit,S3 Sec 4.4,paper,solved,3
+case141limit,S3 Sec 4.4,adaptive,solved,3
+case141limit,S3 Sec 4.4,PC,solved,4
+case141limit,S3 Sec 4.4,PC + adaptive,solved,4
+case141limit,S3 Sec 4.4,OM,solved,3
+case141limit,S3 Sec 4.4,OM + adaptive,solved,3
+case141limit,S3 Sec 4.4,OM + PC,solved,4
+case141limit,S3 Sec 4.4,OM + PC + adaptive,solved,4
+case141limit,S3 Sec 4.4,richardson,solved,5
+case141limit,S3 Sec 4.4,richardson + FE,solved,6
+case141limit,S3 Sec 4.4,richardson + RK2,solved,8
+case141limit,S3 Sec 4.4,richardson + RK4,solved,14
+case141limit,S3 Sec 4.4,OM + richardson,solved,5
+case141limit,S3 Sec 4.4,BE-chord,solved,4
+case141limit,S3 Sec 4.4,RK4,solved,6
+case141limit,S3 Sec 4.4,scaled homotopy,solved,3
+case141limit,S3 Sec 4.4,newton homotopy,solved,3
+case141limit,S4 weak K,paper,solved,3
+case141limit,S4 weak K,adaptive,solved,3
+case141limit,S4 weak K,PC,solved,4
+case141limit,S4 weak K,PC + adaptive,solved,4
+case141limit,S4 weak K,OM,solved,3
+case141limit,S4 weak K,OM + adaptive,solved,3
+case141limit,S4 weak K,OM + PC,solved,4
+case141limit,S4 weak K,OM + PC + adaptive,solved,4
+case141limit,S4 weak K,richardson,solved,5
+case141limit,S4 weak K,richardson + FE,solved,7
+case141limit,S4 weak K,richardson + RK2,solved,8
+case141limit,S4 weak K,richardson + RK4,solved,14
+case141limit,S4 weak K,OM + richardson,solved,5
+case141limit,S4 weak K,BE-chord,solved,3
+case141limit,S4 weak K,RK4,solved,7
+case141limit,S4 weak K,scaled homotopy,solved,3
+case141limit,S4 weak K,newton homotopy,solved,3
+case141limit,S5 strong K,paper,solved,3
+case141limit,S5 strong K,adaptive,solved,3
+case141limit,S5 strong K,PC,solved,4
+case141limit,S5 strong K,PC + adaptive,solved,4
+case141limit,S5 strong K,OM,solved,3
+case141limit,S5 strong K,OM + adaptive,solved,3
+case141limit,S5 strong K,OM + PC,solved,4
+case141limit,S5 strong K,OM + PC + adaptive,solved,4
+case141limit,S5 strong K,richardson,solved,5
+case141limit,S5 strong K,richardson + FE,solved,9
+case141limit,S5 strong K,richardson + RK2,solved,10
+case141limit,S5 strong K,richardson + RK4,solved,15
+case141limit,S5 strong K,OM + richardson,solved,5
+case141limit,S5 strong K,BE-chord,solved,4
+case141limit,S5 strong K,RK4,solved,9
+case141limit,S5 strong K,scaled homotopy,solved,3
+case141limit,S5 strong K,newton homotopy,solved,3
+case_ACTIVSg500limit,S1 paper,paper,solved,4
+case_ACTIVSg500limit,S1 paper,adaptive,solved,4
+case_ACTIVSg500limit,S1 paper,PC,solved,5
+case_ACTIVSg500limit,S1 paper,PC + adaptive,solved,5
+case_ACTIVSg500limit,S1 paper,OM,solved,4
+case_ACTIVSg500limit,S1 paper,OM + adaptive,solved,4
+case_ACTIVSg500limit,S1 paper,OM + PC,solved,5
+case_ACTIVSg500limit,S1 paper,OM + PC + adaptive,solved,5
+case_ACTIVSg500limit,S1 paper,richardson,solved,6
+case_ACTIVSg500limit,S1 paper,richardson + FE,solved,28
+case_ACTIVSg500limit,S1 paper,richardson + RK2,solved,34
+case_ACTIVSg500limit,S1 paper,richardson + RK4,solved,63
+case_ACTIVSg500limit,S1 paper,OM + richardson,solved,6
+case_ACTIVSg500limit,S1 paper,BE-chord,solved,5
+case_ACTIVSg500limit,S1 paper,RK4,failed,15
+case_ACTIVSg500limit,S1 paper,scaled homotopy,solved,4
+case_ACTIVSg500limit,S1 paper,newton homotopy,solved,5
+case_ACTIVSg500limit,S2 Sec 4.4,paper,solved,4
+case_ACTIVSg500limit,S2 Sec 4.4,adaptive,solved,4
+case_ACTIVSg500limit,S2 Sec 4.4,PC,solved,5
+case_ACTIVSg500limit,S2 Sec 4.4,PC + adaptive,solved,5
+case_ACTIVSg500limit,S2 Sec 4.4,OM,solved,4
+case_ACTIVSg500limit,S2 Sec 4.4,OM + adaptive,solved,4
+case_ACTIVSg500limit,S2 Sec 4.4,OM + PC,solved,5
+case_ACTIVSg500limit,S2 Sec 4.4,OM + PC + adaptive,solved,5
+case_ACTIVSg500limit,S2 Sec 4.4,richardson,solved,6
+case_ACTIVSg500limit,S2 Sec 4.4,richardson + FE,solved,17
+case_ACTIVSg500limit,S2 Sec 4.4,richardson + RK2,solved,11
+case_ACTIVSg500limit,S2 Sec 4.4,richardson + RK4,solved,15
+case_ACTIVSg500limit,S2 Sec 4.4,OM + richardson,solved,6
+case_ACTIVSg500limit,S2 Sec 4.4,BE-chord,solved,5
+case_ACTIVSg500limit,S2 Sec 4.4,RK4,solved,9
+case_ACTIVSg500limit,S2 Sec 4.4,scaled homotopy,solved,4
+case_ACTIVSg500limit,S2 Sec 4.4,newton homotopy,solved,5
+case_ACTIVSg500limit,S3 Sec 4.4,paper,solved,4
+case_ACTIVSg500limit,S3 Sec 4.4,adaptive,solved,4
+case_ACTIVSg500limit,S3 Sec 4.4,PC,solved,5
+case_ACTIVSg500limit,S3 Sec 4.4,PC + adaptive,solved,5
+case_ACTIVSg500limit,S3 Sec 4.4,OM,solved,4
+case_ACTIVSg500limit,S3 Sec 4.4,OM + adaptive,solved,4
+case_ACTIVSg500limit,S3 Sec 4.4,OM + PC,solved,5
+case_ACTIVSg500limit,S3 Sec 4.4,OM + PC + adaptive,solved,5
+case_ACTIVSg500limit,S3 Sec 4.4,richardson,solved,6
+case_ACTIVSg500limit,S3 Sec 4.4,richardson + FE,solved,8
+case_ACTIVSg500limit,S3 Sec 4.4,richardson + RK2,solved,10
+case_ACTIVSg500limit,S3 Sec 4.4,richardson + RK4,solved,15
+case_ACTIVSg500limit,S3 Sec 4.4,OM + richardson,solved,6
+case_ACTIVSg500limit,S3 Sec 4.4,BE-chord,solved,5
+case_ACTIVSg500limit,S3 Sec 4.4,RK4,solved,8
+case_ACTIVSg500limit,S3 Sec 4.4,scaled homotopy,solved,4
+case_ACTIVSg500limit,S3 Sec 4.4,newton homotopy,solved,5
+case_ACTIVSg500limit,S4 weak K,paper,solved,4
+case_ACTIVSg500limit,S4 weak K,adaptive,solved,4
+case_ACTIVSg500limit,S4 weak K,PC,solved,4
+case_ACTIVSg500limit,S4 weak K,PC + adaptive,solved,4
+case_ACTIVSg500limit,S4 weak K,OM,solved,4
+case_ACTIVSg500limit,S4 weak K,OM + adaptive,solved,4
+case_ACTIVSg500limit,S4 weak K,OM + PC,solved,4
+case_ACTIVSg500limit,S4 weak K,OM + PC + adaptive,solved,4
+case_ACTIVSg500limit,S4 weak K,richardson,solved,6
+case_ACTIVSg500limit,S4 weak K,richardson + FE,solved,28
+case_ACTIVSg500limit,S4 weak K,richardson + RK2,solved,40
+case_ACTIVSg500limit,S4 weak K,richardson + RK4,solved,75
+case_ACTIVSg500limit,S4 weak K,OM + richardson,solved,6
+case_ACTIVSg500limit,S4 weak K,BE-chord,solved,5
+case_ACTIVSg500limit,S4 weak K,RK4,failed,15
+case_ACTIVSg500limit,S4 weak K,scaled homotopy,solved,4
+case_ACTIVSg500limit,S4 weak K,newton homotopy,solved,5
+case_ACTIVSg500limit,S5 strong K,paper,solved,4
+case_ACTIVSg500limit,S5 strong K,adaptive,solved,4
+case_ACTIVSg500limit,S5 strong K,PC,solved,5
+case_ACTIVSg500limit,S5 strong K,PC + adaptive,solved,5
+case_ACTIVSg500limit,S5 strong K,OM,solved,4
+case_ACTIVSg500limit,S5 strong K,OM + adaptive,solved,4
+case_ACTIVSg500limit,S5 strong K,OM + PC,solved,5
+case_ACTIVSg500limit,S5 strong K,OM + PC + adaptive,solved,5
+case_ACTIVSg500limit,S5 strong K,richardson,solved,6
+case_ACTIVSg500limit,S5 strong K,richardson + FE,solved,28
+case_ACTIVSg500limit,S5 strong K,richardson + RK2,solved,34
+case_ACTIVSg500limit,S5 strong K,richardson + RK4,solved,63
+case_ACTIVSg500limit,S5 strong K,OM + richardson,solved,6
+case_ACTIVSg500limit,S5 strong K,BE-chord,solved,5
+case_ACTIVSg500limit,S5 strong K,RK4,failed,15
+case_ACTIVSg500limit,S5 strong K,scaled homotopy,solved,4
+case_ACTIVSg500limit,S5 strong K,newton homotopy,solved,5
+case_ACTIVSg2000limit,S1 paper,paper,solved,5
+case_ACTIVSg2000limit,S1 paper,adaptive,solved,14
+case_ACTIVSg2000limit,S1 paper,PC,solved,6
+case_ACTIVSg2000limit,S1 paper,PC + adaptive,solved,6
+case_ACTIVSg2000limit,S1 paper,OM,solved,5
+case_ACTIVSg2000limit,S1 paper,OM + adaptive,solved,14
+case_ACTIVSg2000limit,S1 paper,OM + PC,solved,6
+case_ACTIVSg2000limit,S1 paper,OM + PC + adaptive,solved,6
+case_ACTIVSg2000limit,S1 paper,richardson,solved,6
+case_ACTIVSg2000limit,S1 paper,richardson + FE,solved,34
+case_ACTIVSg2000limit,S1 paper,richardson + RK2,solved,51
+case_ACTIVSg2000limit,S1 paper,richardson + RK4,solved,87
+case_ACTIVSg2000limit,S1 paper,OM + richardson,solved,6
+case_ACTIVSg2000limit,S1 paper,BE-chord,solved,6
+case_ACTIVSg2000limit,S1 paper,RK4,failed,15
+case_ACTIVSg2000limit,S1 paper,scaled homotopy,solved,5
+case_ACTIVSg2000limit,S1 paper,newton homotopy,solved,6
+case_ACTIVSg2000limit,S2 Sec 4.4,paper,solved,5
+case_ACTIVSg2000limit,S2 Sec 4.4,adaptive,solved,9
+case_ACTIVSg2000limit,S2 Sec 4.4,PC,solved,6
+case_ACTIVSg2000limit,S2 Sec 4.4,PC + adaptive,solved,6
+case_ACTIVSg2000limit,S2 Sec 4.4,OM,solved,5
+case_ACTIVSg2000limit,S2 Sec 4.4,OM + adaptive,solved,9
+case_ACTIVSg2000limit,S2 Sec 4.4,OM + PC,solved,6
+case_ACTIVSg2000limit,S2 Sec 4.4,OM + PC + adaptive,solved,6
+case_ACTIVSg2000limit,S2 Sec 4.4,richardson,solved,7
+case_ACTIVSg2000limit,S2 Sec 4.4,richardson + FE,solved,25
+case_ACTIVSg2000limit,S2 Sec 4.4,richardson + RK2,solved,28
+case_ACTIVSg2000limit,S2 Sec 4.4,richardson + RK4,solved,40
+case_ACTIVSg2000limit,S2 Sec 4.4,OM + richardson,solved,7
+case_ACTIVSg2000limit,S2 Sec 4.4,BE-chord,solved,6
+case_ACTIVSg2000limit,S2 Sec 4.4,RK4,failed,15
+case_ACTIVSg2000limit,S2 Sec 4.4,scaled homotopy,solved,5
+case_ACTIVSg2000limit,S2 Sec 4.4,newton homotopy,solved,6
+case_ACTIVSg2000limit,S3 Sec 4.4,paper,solved,5
+case_ACTIVSg2000limit,S3 Sec 4.4,adaptive,solved,7
+case_ACTIVSg2000limit,S3 Sec 4.4,PC,solved,6
+case_ACTIVSg2000limit,S3 Sec 4.4,PC + adaptive,solved,6
+case_ACTIVSg2000limit,S3 Sec 4.4,OM,solved,5
+case_ACTIVSg2000limit,S3 Sec 4.4,OM + adaptive,solved,7
+case_ACTIVSg2000limit,S3 Sec 4.4,OM + PC,solved,6
+case_ACTIVSg2000limit,S3 Sec 4.4,OM + PC + adaptive,solved,6
+case_ACTIVSg2000limit,S3 Sec 4.4,richardson,solved,7
+case_ACTIVSg2000limit,S3 Sec 4.4,richardson + FE,solved,20
+case_ACTIVSg2000limit,S3 Sec 4.4,richardson + RK2,solved,28
+case_ACTIVSg2000limit,S3 Sec 4.4,richardson + RK4,solved,18
+case_ACTIVSg2000limit,S3 Sec 4.4,OM + richardson,solved,7
+case_ACTIVSg2000limit,S3 Sec 4.4,BE-chord,solved,6
+case_ACTIVSg2000limit,S3 Sec 4.4,RK4,failed,15
+case_ACTIVSg2000limit,S3 Sec 4.4,scaled homotopy,solved,5
+case_ACTIVSg2000limit,S3 Sec 4.4,newton homotopy,solved,6
+case_ACTIVSg2000limit,S4 weak K,paper,solved,5
+case_ACTIVSg2000limit,S4 weak K,adaptive,solved,14
+case_ACTIVSg2000limit,S4 weak K,PC,solved,5
+case_ACTIVSg2000limit,S4 weak K,PC + adaptive,solved,5
+case_ACTIVSg2000limit,S4 weak K,OM,solved,5
+case_ACTIVSg2000limit,S4 weak K,OM + adaptive,solved,14
+case_ACTIVSg2000limit,S4 weak K,OM + PC,solved,5
+case_ACTIVSg2000limit,S4 weak K,OM + PC + adaptive,solved,5
+case_ACTIVSg2000limit,S4 weak K,richardson,solved,6
+case_ACTIVSg2000limit,S4 weak K,richardson + FE,solved,40
+case_ACTIVSg2000limit,S4 weak K,richardson + RK2,solved,45
+case_ACTIVSg2000limit,S4 weak K,richardson + RK4,solved,88
+case_ACTIVSg2000limit,S4 weak K,OM + richardson,solved,6
+case_ACTIVSg2000limit,S4 weak K,BE-chord,solved,6
+case_ACTIVSg2000limit,S4 weak K,RK4,failed,15
+case_ACTIVSg2000limit,S4 weak K,scaled homotopy,solved,5
+case_ACTIVSg2000limit,S4 weak K,newton homotopy,solved,6
+case_ACTIVSg2000limit,S5 strong K,paper,solved,5
+case_ACTIVSg2000limit,S5 strong K,adaptive,solved,9
+case_ACTIVSg2000limit,S5 strong K,PC,solved,6
+case_ACTIVSg2000limit,S5 strong K,PC + adaptive,solved,6
+case_ACTIVSg2000limit,S5 strong K,OM,solved,5
+case_ACTIVSg2000limit,S5 strong K,OM + adaptive,solved,9
+case_ACTIVSg2000limit,S5 strong K,OM + PC,solved,6
+case_ACTIVSg2000limit,S5 strong K,OM + PC + adaptive,solved,6
+case_ACTIVSg2000limit,S5 strong K,richardson,solved,6
+case_ACTIVSg2000limit,S5 strong K,richardson + FE,solved,31
+case_ACTIVSg2000limit,S5 strong K,richardson + RK2,solved,39
+case_ACTIVSg2000limit,S5 strong K,richardson + RK4,solved,75
+case_ACTIVSg2000limit,S5 strong K,OM + richardson,solved,6
+case_ACTIVSg2000limit,S5 strong K,BE-chord,solved,6
+case_ACTIVSg2000limit,S5 strong K,RK4,failed,15
+case_ACTIVSg2000limit,S5 strong K,scaled homotopy,solved,5
+case_ACTIVSg2000limit,S5 strong K,newton homotopy,solved,6
+case6024,S1 paper,paper,failed,12
+case6024,S1 paper,adaptive,failed,8
+case6024,S1 paper,PC,failed,14
+case6024,S1 paper,PC + adaptive,failed,16
+case6024,S1 paper,OM,failed,12
+case6024,S1 paper,OM + adaptive,failed,8
+case6024,S1 paper,OM + PC,failed,14
+case6024,S1 paper,OM + PC + adaptive,failed,16
+case6024,S1 paper,richardson,solved,73
+case6024,S1 paper,richardson + FE,solved,106
+case6024,S1 paper,richardson + RK2,solved,112
+case6024,S1 paper,richardson + RK4,failed,157
+case6024,S1 paper,OM + richardson,solved,73
+case6024,S1 paper,BE-chord,failed,12
+case6024,S1 paper,RK4,failed,15
+case6024,S1 paper,scaled homotopy,failed,12
+case6024,S1 paper,newton homotopy,failed,12
+case6024,S2 Sec 4.4,paper,failed,12
+case6024,S2 Sec 4.4,adaptive,solved,17
+case6024,S2 Sec 4.4,PC,failed,14
+case6024,S2 Sec 4.4,PC + adaptive,failed,30
+case6024,S2 Sec 4.4,OM,failed,12
+case6024,S2 Sec 4.4,OM + adaptive,solved,17
+case6024,S2 Sec 4.4,OM + PC,failed,14
+case6024,S2 Sec 4.4,OM + PC + adaptive,failed,30
+case6024,S2 Sec 4.4,richardson,solved,98
+case6024,S2 Sec 4.4,richardson + FE,solved,122
+case6024,S2 Sec 4.4,richardson + RK2,other root,65
+case6024,S2 Sec 4.4,richardson + RK4,other root,65
+case6024,S2 Sec 4.4,OM + richardson,solved,98
+case6024,S2 Sec 4.4,BE-chord,failed,12
+case6024,S2 Sec 4.4,RK4,failed,13
+case6024,S2 Sec 4.4,scaled homotopy,failed,12
+case6024,S2 Sec 4.4,newton homotopy,failed,12
+case6024,S3 Sec 4.4,paper,failed,12
+case6024,S3 Sec 4.4,adaptive,other root,13
+case6024,S3 Sec 4.4,PC,failed,14
+case6024,S3 Sec 4.4,PC + adaptive,failed,26
+case6024,S3 Sec 4.4,OM,failed,12
+case6024,S3 Sec 4.4,OM + adaptive,other root,13
+case6024,S3 Sec 4.4,OM + PC,failed,14
+case6024,S3 Sec 4.4,OM + PC + adaptive,failed,26
+case6024,S3 Sec 4.4,richardson,solved,69
+case6024,S3 Sec 4.4,richardson + FE,solved,117
+case6024,S3 Sec 4.4,richardson + RK2,other root,54
+case6024,S3 Sec 4.4,richardson + RK4,other root,54
+case6024,S3 Sec 4.4,OM + richardson,solved,69
+case6024,S3 Sec 4.4,BE-chord,failed,12
+case6024,S3 Sec 4.4,RK4,failed,15
+case6024,S3 Sec 4.4,scaled homotopy,failed,12
+case6024,S3 Sec 4.4,newton homotopy,failed,12
+case6024,S4 weak K,paper,failed,12
+case6024,S4 weak K,adaptive,failed,8
+case6024,S4 weak K,PC,failed,14
+case6024,S4 weak K,PC + adaptive,failed,24
+case6024,S4 weak K,OM,failed,12
+case6024,S4 weak K,OM + adaptive,failed,8
+case6024,S4 weak K,OM + PC,failed,14
+case6024,S4 weak K,OM + PC + adaptive,failed,24
+case6024,S4 weak K,richardson,failed,151
+case6024,S4 weak K,richardson + FE,failed,151
+case6024,S4 weak K,richardson + RK2,failed,151
+case6024,S4 weak K,richardson + RK4,failed,157
+case6024,S4 weak K,OM + richardson,failed,151
+case6024,S4 weak K,BE-chord,failed,12
+case6024,S4 weak K,RK4,failed,15
+case6024,S4 weak K,scaled homotopy,failed,12
+case6024,S4 weak K,newton homotopy,failed,12
+case6024,S5 strong K,paper,solved,6
+case6024,S5 strong K,adaptive,solved,6
+case6024,S5 strong K,PC,solved,6
+case6024,S5 strong K,PC + adaptive,solved,6
+case6024,S5 strong K,OM,solved,6
+case6024,S5 strong K,OM + adaptive,solved,6
+case6024,S5 strong K,OM + PC,solved,6
+case6024,S5 strong K,OM + PC + adaptive,solved,6
+case6024,S5 strong K,richardson,solved,7
+case6024,S5 strong K,richardson + FE,solved,37
+case6024,S5 strong K,richardson + RK2,solved,46
+case6024,S5 strong K,richardson + RK4,solved,88
+case6024,S5 strong K,OM + richardson,solved,7
+case6024,S5 strong K,BE-chord,other root,8
+case6024,S5 strong K,RK4,failed,15
+case6024,S5 strong K,scaled homotopy,solved,6
+case6024,S5 strong K,newton homotopy,failed,12
+case6243,S1 paper,paper,solved,6
+case6243,S1 paper,adaptive,solved,6
+case6243,S1 paper,PC,solved,6
+case6243,S1 paper,PC + adaptive,solved,6
+case6243,S1 paper,OM,solved,6
+case6243,S1 paper,OM + adaptive,solved,6
+case6243,S1 paper,OM + PC,solved,6
+case6243,S1 paper,OM + PC + adaptive,solved,6
+case6243,S1 paper,richardson,solved,7
+case6243,S1 paper,richardson + FE,solved,43
+case6243,S1 paper,richardson + RK2,solved,46
+case6243,S1 paper,richardson + RK4,solved,88
+case6243,S1 paper,OM + richardson,solved,7
+case6243,S1 paper,BE-chord,failed,12
+case6243,S1 paper,RK4,failed,15
+case6243,S1 paper,scaled homotopy,solved,6
+case6243,S1 paper,newton homotopy,failed,12
+case6243,S2 Sec 4.4,paper,solved,7
+case6243,S2 Sec 4.4,adaptive,solved,7
+case6243,S2 Sec 4.4,PC,solved,6
+case6243,S2 Sec 4.4,PC + adaptive,solved,6
+case6243,S2 Sec 4.4,OM,solved,6
+case6243,S2 Sec 4.4,OM + adaptive,solved,6
+case6243,S2 Sec 4.4,OM + PC,solved,6
+case6243,S2 Sec 4.4,OM + PC + adaptive,solved,6
+case6243,S2 Sec 4.4,richardson,solved,8
+case6243,S2 Sec 4.4,richardson + FE,solved,29
+case6243,S2 Sec 4.4,richardson + RK2,solved,35
+case6243,S2 Sec 4.4,richardson + RK4,solved,53
+case6243,S2 Sec 4.4,OM + richardson,solved,8
+case6243,S2 Sec 4.4,BE-chord,failed,12
+case6243,S2 Sec 4.4,RK4,failed,15
+case6243,S2 Sec 4.4,scaled homotopy,solved,7
+case6243,S2 Sec 4.4,newton homotopy,failed,12
+case6243,S3 Sec 4.4,paper,solved,7
+case6243,S3 Sec 4.4,adaptive,solved,7
+case6243,S3 Sec 4.4,PC,solved,7
+case6243,S3 Sec 4.4,PC + adaptive,solved,7
+case6243,S3 Sec 4.4,OM,solved,7
+case6243,S3 Sec 4.4,OM + adaptive,solved,7
+case6243,S3 Sec 4.4,OM + PC,solved,6
+case6243,S3 Sec 4.4,OM + PC + adaptive,solved,6
+case6243,S3 Sec 4.4,richardson,solved,9
+case6243,S3 Sec 4.4,richardson + FE,solved,24
+case6243,S3 Sec 4.4,richardson + RK2,solved,29
+case6243,S3 Sec 4.4,richardson + RK4,solved,54
+case6243,S3 Sec 4.4,OM + richardson,solved,8
+case6243,S3 Sec 4.4,BE-chord,solved,10
+case6243,S3 Sec 4.4,RK4,failed,15
+case6243,S3 Sec 4.4,scaled homotopy,solved,7
+case6243,S3 Sec 4.4,newton homotopy,failed,12
+case6243,S4 weak K,paper,failed,12
+case6243,S4 weak K,adaptive,failed,8
+case6243,S4 weak K,PC,failed,14
+case6243,S4 weak K,PC + adaptive,failed,16
+case6243,S4 weak K,OM,failed,12
+case6243,S4 weak K,OM + adaptive,failed,8
+case6243,S4 weak K,OM + PC,failed,14
+case6243,S4 weak K,OM + PC + adaptive,failed,16
+case6243,S4 weak K,richardson,failed,151
+case6243,S4 weak K,richardson + FE,failed,151
+case6243,S4 weak K,richardson + RK2,failed,151
+case6243,S4 weak K,richardson + RK4,failed,157
+case6243,S4 weak K,OM + richardson,failed,151
+case6243,S4 weak K,BE-chord,failed,12
+case6243,S4 weak K,RK4,failed,15
+case6243,S4 weak K,scaled homotopy,failed,12
+case6243,S4 weak K,newton homotopy,failed,12
+case6243,S5 strong K,paper,solved,6
+case6243,S5 strong K,adaptive,solved,6
+case6243,S5 strong K,PC,solved,6
+case6243,S5 strong K,PC + adaptive,solved,6
+case6243,S5 strong K,OM,solved,6
+case6243,S5 strong K,OM + adaptive,solved,6
+case6243,S5 strong K,OM + PC,solved,6
+case6243,S5 strong K,OM + PC + adaptive,solved,6
+case6243,S5 strong K,richardson,solved,7
+case6243,S5 strong K,richardson + FE,solved,37
+case6243,S5 strong K,richardson + RK2,solved,46
+case6243,S5 strong K,richardson + RK4,solved,88
+case6243,S5 strong K,OM + richardson,solved,7
+case6243,S5 strong K,BE-chord,solved,7
+case6243,S5 strong K,RK4,failed,15
+case6243,S5 strong K,scaled homotopy,solved,6
+case6243,S5 strong K,newton homotopy,failed,12
+case6748,S1 paper,paper,failed,12
+case6748,S1 paper,adaptive,solved,19
+case6748,S1 paper,PC,failed,14
+case6748,S1 paper,PC + adaptive,failed,14
+case6748,S1 paper,OM,failed,12
+case6748,S1 paper,OM + adaptive,solved,18
+case6748,S1 paper,OM + PC,failed,14
+case6748,S1 paper,OM + PC + adaptive,failed,14
+case6748,S1 paper,richardson,solved,49
+case6748,S1 paper,richardson + FE,solved,52
+case6748,S1 paper,richardson + RK2,solved,52
+case6748,S1 paper,richardson + RK4,solved,100
+case6748,S1 paper,OM + richardson,solved,49
+case6748,S1 paper,BE-chord,failed,12
+case6748,S1 paper,RK4,failed,15
+case6748,S1 paper,scaled homotopy,failed,12
+case6748,S1 paper,newton homotopy,failed,12
+case6748,S2 Sec 4.4,paper,failed,12
+case6748,S2 Sec 4.4,adaptive,solved,14
+case6748,S2 Sec 4.4,PC,failed,14
+case6748,S2 Sec 4.4,PC + adaptive,failed,26
+case6748,S2 Sec 4.4,OM,failed,12
+case6748,S2 Sec 4.4,OM + adaptive,solved,14
+case6748,S2 Sec 4.4,OM + PC,failed,14
+case6748,S2 Sec 4.4,OM + PC + adaptive,failed,26
+case6748,S2 Sec 4.4,richardson,solved,41
+case6748,S2 Sec 4.4,richardson + FE,other root,36
+case6748,S2 Sec 4.4,richardson + RK2,solved,46
+case6748,S2 Sec 4.4,richardson + RK4,other root,65
+case6748,S2 Sec 4.4,OM + richardson,other root,42
+case6748,S2 Sec 4.4,BE-chord,failed,12
+case6748,S2 Sec 4.4,RK4,failed,15
+case6748,S2 Sec 4.4,scaled homotopy,failed,12
+case6748,S2 Sec 4.4,newton homotopy,failed,12
+case6748,S3 Sec 4.4,paper,failed,12
+case6748,S3 Sec 4.4,adaptive,failed,144
+case6748,S3 Sec 4.4,PC,failed,14
+case6748,S3 Sec 4.4,PC + adaptive,failed,14
+case6748,S3 Sec 4.4,OM,failed,12
+case6748,S3 Sec 4.4,OM + adaptive,failed,144
+case6748,S3 Sec 4.4,OM + PC,failed,14
+case6748,S3 Sec 4.4,OM + PC + adaptive,failed,14
+case6748,S3 Sec 4.4,richardson,other root,108
+case6748,S3 Sec 4.4,richardson + FE,failed,151
+case6748,S3 Sec 4.4,richardson + RK2,solved,71
+case6748,S3 Sec 4.4,richardson + RK4,other root,65
+case6748,S3 Sec 4.4,OM + richardson,solved,108
+case6748,S3 Sec 4.4,BE-chord,failed,12
+case6748,S3 Sec 4.4,RK4,failed,15
+case6748,S3 Sec 4.4,scaled homotopy,failed,12
+case6748,S3 Sec 4.4,newton homotopy,failed,12
+case6748,S4 weak K,paper,failed,12
+case6748,S4 weak K,adaptive,failed,8
+case6748,S4 weak K,PC,failed,14
+case6748,S4 weak K,PC + adaptive,failed,16
+case6748,S4 weak K,OM,failed,12
+case6748,S4 weak K,OM + adaptive,failed,8
+case6748,S4 weak K,OM + PC,failed,14
+case6748,S4 weak K,OM + PC + adaptive,failed,16
+case6748,S4 weak K,richardson,other root,143
+case6748,S4 weak K,richardson + FE,failed,151
+case6748,S4 weak K,richardson + RK2,failed,151
+case6748,S4 weak K,richardson + RK4,failed,157
+case6748,S4 weak K,OM + richardson,other root,142
+case6748,S4 weak K,BE-chord,failed,12
+case6748,S4 weak K,RK4,failed,15
+case6748,S4 weak K,scaled homotopy,failed,12
+case6748,S4 weak K,newton homotopy,failed,12
+case6748,S5 strong K,paper,solved,7
+case6748,S5 strong K,adaptive,solved,7
+case6748,S5 strong K,PC,solved,6
+case6748,S5 strong K,PC + adaptive,solved,6
+case6748,S5 strong K,OM,solved,7
+case6748,S5 strong K,OM + adaptive,solved,7
+case6748,S5 strong K,OM + PC,solved,6
+case6748,S5 strong K,OM + PC + adaptive,solved,6
+case6748,S5 strong K,richardson,solved,25
+case6748,S5 strong K,richardson + FE,solved,37
+case6748,S5 strong K,richardson + RK2,solved,46
+case6748,S5 strong K,richardson + RK4,solved,88
+case6748,S5 strong K,OM + richardson,solved,25
+case6748,S5 strong K,BE-chord,failed,12
+case6748,S5 strong K,RK4,failed,11
+case6748,S5 strong K,scaled homotopy,solved,7
+case6748,S5 strong K,newton homotopy,failed,12
+case7092,S1 paper,paper,solved,6
+case7092,S1 paper,adaptive,solved,6
+case7092,S1 paper,PC,solved,6
+case7092,S1 paper,PC + adaptive,solved,6
+case7092,S1 paper,OM,solved,6
+case7092,S1 paper,OM + adaptive,solved,6
+case7092,S1 paper,OM + PC,solved,6
+case7092,S1 paper,OM + PC + adaptive,solved,6
+case7092,S1 paper,richardson,solved,7
+case7092,S1 paper,richardson + FE,solved,40
+case7092,S1 paper,richardson + RK2,solved,46
+case7092,S1 paper,richardson + RK4,solved,76
+case7092,S1 paper,OM + richardson,solved,7
+case7092,S1 paper,BE-chord,solved,7
+case7092,S1 paper,RK4,failed,15
+case7092,S1 paper,scaled homotopy,solved,6
+case7092,S1 paper,newton homotopy,failed,12
+case7092,S2 Sec 4.4,paper,solved,6
+case7092,S2 Sec 4.4,adaptive,solved,6
+case7092,S2 Sec 4.4,PC,solved,6
+case7092,S2 Sec 4.4,PC + adaptive,solved,6
+case7092,S2 Sec 4.4,OM,solved,6
+case7092,S2 Sec 4.4,OM + adaptive,solved,6
+case7092,S2 Sec 4.4,OM + PC,solved,6
+case7092,S2 Sec 4.4,OM + PC + adaptive,solved,6
+case7092,S2 Sec 4.4,richardson,solved,8
+case7092,S2 Sec 4.4,richardson + FE,solved,26
+case7092,S2 Sec 4.4,richardson + RK2,solved,29
+case7092,S2 Sec 4.4,richardson + RK4,solved,41
+case7092,S2 Sec 4.4,OM + richardson,solved,8
+case7092,S2 Sec 4.4,BE-chord,solved,7
+case7092,S2 Sec 4.4,RK4,failed,15
+case7092,S2 Sec 4.4,scaled homotopy,solved,6
+case7092,S2 Sec 4.4,newton homotopy,failed,12
+case7092,S3 Sec 4.4,paper,solved,6
+case7092,S3 Sec 4.4,adaptive,solved,6
+case7092,S3 Sec 4.4,PC,solved,6
+case7092,S3 Sec 4.4,PC + adaptive,solved,6
+case7092,S3 Sec 4.4,OM,solved,6
+case7092,S3 Sec 4.4,OM + adaptive,solved,6
+case7092,S3 Sec 4.4,OM + PC,solved,6
+case7092,S3 Sec 4.4,OM + PC + adaptive,solved,6
+case7092,S3 Sec 4.4,richardson,solved,8
+case7092,S3 Sec 4.4,richardson + FE,solved,23
+case7092,S3 Sec 4.4,richardson + RK2,solved,29
+case7092,S3 Sec 4.4,richardson + RK4,solved,17
+case7092,S3 Sec 4.4,OM + richardson,solved,8
+case7092,S3 Sec 4.4,BE-chord,solved,7
+case7092,S3 Sec 4.4,RK4,solved,15
+case7092,S3 Sec 4.4,scaled homotopy,solved,6
+case7092,S3 Sec 4.4,newton homotopy,failed,12
+case7092,S4 weak K,paper,failed,12
+case7092,S4 weak K,adaptive,failed,8
+case7092,S4 weak K,PC,failed,14
+case7092,S4 weak K,PC + adaptive,failed,16
+case7092,S4 weak K,OM,failed,12
+case7092,S4 weak K,OM + adaptive,failed,8
+case7092,S4 weak K,OM + PC,failed,14
+case7092,S4 weak K,OM + PC + adaptive,failed,16
+case7092,S4 weak K,richardson,solved,49
+case7092,S4 weak K,richardson + FE,solved,52
+case7092,S4 weak K,richardson + RK2,solved,64
+case7092,S4 weak K,richardson + RK4,solved,124
+case7092,S4 weak K,OM + richardson,solved,49
+case7092,S4 weak K,BE-chord,failed,12
+case7092,S4 weak K,RK4,failed,15
+case7092,S4 weak K,scaled homotopy,failed,12
+case7092,S4 weak K,newton homotopy,failed,12
+case7092,S5 strong K,paper,solved,5
+case7092,S5 strong K,adaptive,solved,5
+case7092,S5 strong K,PC,solved,6
+case7092,S5 strong K,PC + adaptive,solved,6
+case7092,S5 strong K,OM,solved,5
+case7092,S5 strong K,OM + adaptive,solved,5
+case7092,S5 strong K,OM + PC,solved,6
+case7092,S5 strong K,OM + PC + adaptive,solved,6
+case7092,S5 strong K,richardson,solved,7
+case7092,S5 strong K,richardson + FE,solved,34
+case7092,S5 strong K,richardson + RK2,solved,40
+case7092,S5 strong K,richardson + RK4,solved,76
+case7092,S5 strong K,OM + richardson,solved,7
+case7092,S5 strong K,BE-chord,solved,6
+case7092,S5 strong K,RK4,failed,15
+case7092,S5 strong K,scaled homotopy,solved,5
+case7092,S5 strong K,newton homotopy,failed,12
+case9961,S1 paper,paper,solved,6
+case9961,S1 paper,adaptive,solved,6
+case9961,S1 paper,PC,solved,6
+case9961,S1 paper,PC + adaptive,solved,6
+case9961,S1 paper,OM,solved,6
+case9961,S1 paper,OM + adaptive,solved,6
+case9961,S1 paper,OM + PC,solved,6
+case9961,S1 paper,OM + PC + adaptive,solved,6
+case9961,S1 paper,richardson,solved,7
+case9961,S1 paper,richardson + FE,solved,40
+case9961,S1 paper,richardson + RK2,solved,46
+case9961,S1 paper,richardson + RK4,solved,88
+case9961,S1 paper,OM + richardson,solved,7
+case9961,S1 paper,BE-chord,solved,7
+case9961,S1 paper,RK4,failed,15
+case9961,S1 paper,scaled homotopy,solved,6
+case9961,S1 paper,newton homotopy,failed,12
+case9961,S2 Sec 4.4,paper,solved,6
+case9961,S2 Sec 4.4,adaptive,solved,6
+case9961,S2 Sec 4.4,PC,solved,6
+case9961,S2 Sec 4.4,PC + adaptive,solved,6
+case9961,S2 Sec 4.4,OM,solved,6
+case9961,S2 Sec 4.4,OM + adaptive,solved,6
+case9961,S2 Sec 4.4,OM + PC,solved,6
+case9961,S2 Sec 4.4,OM + PC + adaptive,solved,6
+case9961,S2 Sec 4.4,richardson,solved,8
+case9961,S2 Sec 4.4,richardson + FE,solved,26
+case9961,S2 Sec 4.4,richardson + RK2,solved,29
+case9961,S2 Sec 4.4,richardson + RK4,solved,53
+case9961,S2 Sec 4.4,OM + richardson,solved,8
+case9961,S2 Sec 4.4,BE-chord,solved,7
+case9961,S2 Sec 4.4,RK4,failed,15
+case9961,S2 Sec 4.4,scaled homotopy,solved,6
+case9961,S2 Sec 4.4,newton homotopy,failed,12
+case9961,S3 Sec 4.4,paper,solved,7
+case9961,S3 Sec 4.4,adaptive,solved,7
+case9961,S3 Sec 4.4,PC,solved,6
+case9961,S3 Sec 4.4,PC + adaptive,solved,6
+case9961,S3 Sec 4.4,OM,solved,6
+case9961,S3 Sec 4.4,OM + adaptive,solved,6
+case9961,S3 Sec 4.4,OM + PC,solved,6
+case9961,S3 Sec 4.4,OM + PC + adaptive,solved,6
+case9961,S3 Sec 4.4,richardson,solved,8
+case9961,S3 Sec 4.4,richardson + FE,solved,23
+case9961,S3 Sec 4.4,richardson + RK2,solved,29
+case9961,S3 Sec 4.4,richardson + RK4,solved,41
+case9961,S3 Sec 4.4,OM + richardson,solved,8
+case9961,S3 Sec 4.4,BE-chord,solved,7
+case9961,S3 Sec 4.4,RK4,failed,15
+case9961,S3 Sec 4.4,scaled homotopy,solved,7
+case9961,S3 Sec 4.4,newton homotopy,failed,12
+case9961,S4 weak K,paper,failed,12
+case9961,S4 weak K,adaptive,failed,20
+case9961,S4 weak K,PC,failed,14
+case9961,S4 weak K,PC + adaptive,failed,16
+case9961,S4 weak K,OM,failed,12
+case9961,S4 weak K,OM + adaptive,failed,20
+case9961,S4 weak K,OM + PC,failed,14
+case9961,S4 weak K,OM + PC + adaptive,failed,16
+case9961,S4 weak K,richardson,failed,151
+case9961,S4 weak K,richardson + FE,failed,151
+case9961,S4 weak K,richardson + RK2,failed,161
+case9961,S4 weak K,richardson + RK4,failed,157
+case9961,S4 weak K,OM + richardson,failed,151
+case9961,S4 weak K,BE-chord,failed,12
+case9961,S4 weak K,RK4,failed,15
+case9961,S4 weak K,scaled homotopy,failed,12
+case9961,S4 weak K,newton homotopy,failed,12
+case9961,S5 strong K,paper,solved,6
+case9961,S5 strong K,adaptive,solved,6
+case9961,S5 strong K,PC,solved,6
+case9961,S5 strong K,PC + adaptive,solved,6
+case9961,S5 strong K,OM,solved,5
+case9961,S5 strong K,OM + adaptive,solved,5
+case9961,S5 strong K,OM + PC,solved,6
+case9961,S5 strong K,OM + PC + adaptive,solved,6
+case9961,S5 strong K,richardson,solved,7
+case9961,S5 strong K,richardson + FE,solved,34
+case9961,S5 strong K,richardson + RK2,solved,40
+case9961,S5 strong K,richardson + RK4,solved,88
+case9961,S5 strong K,OM + richardson,solved,7
+case9961,S5 strong K,BE-chord,solved,6
+case9961,S5 strong K,RK4,failed,15
+case9961,S5 strong K,scaled homotopy,solved,6
+case9961,S5 strong K,newton homotopy,failed,12
+case10595,S1 paper,paper,solved,6
+case10595,S1 paper,adaptive,solved,6
+case10595,S1 paper,PC,solved,6
+case10595,S1 paper,PC + adaptive,solved,6
+case10595,S1 paper,OM,solved,5
+case10595,S1 paper,OM + adaptive,solved,5
+case10595,S1 paper,OM + PC,solved,6
+case10595,S1 paper,OM + PC + adaptive,solved,6
+case10595,S1 paper,richardson,solved,7
+case10595,S1 paper,richardson + FE,solved,46
+case10595,S1 paper,richardson + RK2,solved,46
+case10595,S1 paper,richardson + RK4,solved,88
+case10595,S1 paper,OM + richardson,solved,7
+case10595,S1 paper,BE-chord,other root,6
+case10595,S1 paper,RK4,failed,15
+case10595,S1 paper,scaled homotopy,solved,6
+case10595,S1 paper,newton homotopy,failed,12
+case10595,S2 Sec 4.4,paper,solved,6
+case10595,S2 Sec 4.4,adaptive,solved,6
+case10595,S2 Sec 4.4,PC,solved,6
+case10595,S2 Sec 4.4,PC + adaptive,solved,6
+case10595,S2 Sec 4.4,OM,solved,6
+case10595,S2 Sec 4.4,OM + adaptive,solved,6
+case10595,S2 Sec 4.4,OM + PC,solved,6
+case10595,S2 Sec 4.4,OM + PC + adaptive,solved,6
+case10595,S2 Sec 4.4,richardson,solved,7
+case10595,S2 Sec 4.4,richardson + FE,solved,32
+case10595,S2 Sec 4.4,richardson + RK2,solved,28
+case10595,S2 Sec 4.4,richardson + RK4,other root,52
+case10595,S2 Sec 4.4,OM + richardson,solved,7
+case10595,S2 Sec 4.4,BE-chord,solved,7
+case10595,S2 Sec 4.4,RK4,failed,15
+case10595,S2 Sec 4.4,scaled homotopy,solved,6
+case10595,S2 Sec 4.4,newton homotopy,failed,12
+case10595,S3 Sec 4.4,paper,solved,6
+case10595,S3 Sec 4.4,adaptive,solved,6
+case10595,S3 Sec 4.4,PC,solved,6
+case10595,S3 Sec 4.4,PC + adaptive,solved,6
+case10595,S3 Sec 4.4,OM,solved,6
+case10595,S3 Sec 4.4,OM + adaptive,solved,6
+case10595,S3 Sec 4.4,OM + PC,solved,6
+case10595,S3 Sec 4.4,OM + PC + adaptive,solved,6
+case10595,S3 Sec 4.4,richardson,solved,8
+case10595,S3 Sec 4.4,richardson + FE,solved,29
+case10595,S3 Sec 4.4,richardson + RK2,solved,29
+case10595,S3 Sec 4.4,richardson + RK4,solved,21
+case10595,S3 Sec 4.4,OM + richardson,solved,8
+case10595,S3 Sec 4.4,BE-chord,other root,6
+case10595,S3 Sec 4.4,RK4,failed,15
+case10595,S3 Sec 4.4,scaled homotopy,solved,6
+case10595,S3 Sec 4.4,newton homotopy,other root,11
+case10595,S4 weak K,paper,failed,12
+case10595,S4 weak K,adaptive,failed,8
+case10595,S4 weak K,PC,failed,14
+case10595,S4 weak K,PC + adaptive,failed,14
+case10595,S4 weak K,OM,other root,11
+case10595,S4 weak K,OM + adaptive,failed,8
+case10595,S4 weak K,OM + PC,failed,14
+case10595,S4 weak K,OM + PC + adaptive,failed,14
+case10595,S4 weak K,richardson,solved,73
+case10595,S4 weak K,richardson + FE,solved,61
+case10595,S4 weak K,richardson + RK2,solved,76
+case10595,S4 weak K,richardson + RK4,failed,157
+case10595,S4 weak K,OM + richardson,solved,73
+case10595,S4 weak K,BE-chord,failed,12
+case10595,S4 weak K,RK4,failed,15
+case10595,S4 weak K,scaled homotopy,failed,12
+case10595,S4 weak K,newton homotopy,failed,12
+case10595,S5 strong K,paper,solved,5
+case10595,S5 strong K,adaptive,solved,5
+case10595,S5 strong K,PC,solved,6
+case10595,S5 strong K,PC + adaptive,solved,6
+case10595,S5 strong K,OM,solved,5
+case10595,S5 strong K,OM + adaptive,solved,5
+case10595,S5 strong K,OM + PC,solved,6
+case10595,S5 strong K,OM + PC + adaptive,solved,6
+case10595,S5 strong K,richardson,solved,7
+case10595,S5 strong K,richardson + FE,solved,40
+case10595,S5 strong K,richardson + RK2,solved,58
+case10595,S5 strong K,richardson + RK4,solved,88
+case10595,S5 strong K,OM + richardson,solved,7
+case10595,S5 strong K,BE-chord,other root,6
+case10595,S5 strong K,RK4,failed,15
+case10595,S5 strong K,scaled homotopy,solved,5
+case10595,S5 strong K,newton homotopy,failed,12
+case12110,S1 paper,paper,solved,5
+case12110,S1 paper,adaptive,solved,5
+case12110,S1 paper,PC,solved,6
+case12110,S1 paper,PC + adaptive,solved,6
+case12110,S1 paper,OM,solved,5
+case12110,S1 paper,OM + adaptive,solved,5
+case12110,S1 paper,OM + PC,solved,6
+case12110,S1 paper,OM + PC + adaptive,solved,6
+case12110,S1 paper,richardson,solved,7
+case12110,S1 paper,richardson + FE,solved,46
+case12110,S1 paper,richardson + RK2,solved,52
+case12110,S1 paper,richardson + RK4,solved,88
+case12110,S1 paper,OM + richardson,solved,7
+case12110,S1 paper,BE-chord,solved,6
+case12110,S1 paper,RK4,failed,15
+case12110,S1 paper,scaled homotopy,solved,6
+case12110,S1 paper,newton homotopy,failed,12
+case12110,S2 Sec 4.4,paper,solved,6
+case12110,S2 Sec 4.4,adaptive,solved,6
+case12110,S2 Sec 4.4,PC,solved,6
+case12110,S2 Sec 4.4,PC + adaptive,solved,6
+case12110,S2 Sec 4.4,OM,solved,6
+case12110,S2 Sec 4.4,OM + adaptive,solved,6
+case12110,S2 Sec 4.4,OM + PC,solved,6
+case12110,S2 Sec 4.4,OM + PC + adaptive,solved,6
+case12110,S2 Sec 4.4,richardson,solved,8
+case12110,S2 Sec 4.4,richardson + FE,solved,32
+case12110,S2 Sec 4.4,richardson + RK2,solved,29
+case12110,S2 Sec 4.4,richardson + RK4,solved,53
+case12110,S2 Sec 4.4,OM + richardson,solved,7
+case12110,S2 Sec 4.4,BE-chord,other root,7
+case12110,S2 Sec 4.4,RK4,failed,15
+case12110,S2 Sec 4.4,scaled homotopy,solved,6
+case12110,S2 Sec 4.4,newton homotopy,failed,12
+case12110,S3 Sec 4.4,paper,solved,6
+case12110,S3 Sec 4.4,adaptive,solved,6
+case12110,S3 Sec 4.4,PC,solved,6
+case12110,S3 Sec 4.4,PC + adaptive,solved,6
+case12110,S3 Sec 4.4,OM,solved,6
+case12110,S3 Sec 4.4,OM + adaptive,solved,6
+case12110,S3 Sec 4.4,OM + PC,solved,6
+case12110,S3 Sec 4.4,OM + PC + adaptive,solved,6
+case12110,S3 Sec 4.4,richardson,solved,8
+case12110,S3 Sec 4.4,richardson + FE,solved,29
+case12110,S3 Sec 4.4,richardson + RK2,solved,29
+case12110,S3 Sec 4.4,richardson + RK4,other root,17
+case12110,S3 Sec 4.4,OM + richardson,solved,8
+case12110,S3 Sec 4.4,BE-chord,other root,6
+case12110,S3 Sec 4.4,RK4,failed,15
+case12110,S3 Sec 4.4,scaled homotopy,solved,6
+case12110,S3 Sec 4.4,newton homotopy,failed,12
+case12110,S4 weak K,paper,failed,12
+case12110,S4 weak K,adaptive,failed,8
+case12110,S4 weak K,PC,failed,14
+case12110,S4 weak K,PC + adaptive,failed,14
+case12110,S4 weak K,OM,failed,12
+case12110,S4 weak K,OM + adaptive,failed,8
+case12110,S4 weak K,OM + PC,other root,12
+case12110,S4 weak K,OM + PC + adaptive,other root,12
+case12110,S4 weak K,richardson,solved,52
+case12110,S4 weak K,richardson + FE,solved,61
+case12110,S4 weak K,richardson + RK2,solved,64
+case12110,S4 weak K,richardson + RK4,failed,157
+case12110,S4 weak K,OM + richardson,solved,52
+case12110,S4 weak K,BE-chord,failed,12
+case12110,S4 weak K,RK4,failed,15
+case12110,S4 weak K,scaled homotopy,failed,12
+case12110,S4 weak K,newton homotopy,failed,12
+case12110,S5 strong K,paper,solved,5
+case12110,S5 strong K,adaptive,solved,5
+case12110,S5 strong K,PC,solved,6
+case12110,S5 strong K,PC + adaptive,solved,6
+case12110,S5 strong K,OM,solved,5
+case12110,S5 strong K,OM + adaptive,solved,5
+case12110,S5 strong K,OM + PC,solved,6
+case12110,S5 strong K,OM + PC + adaptive,solved,6
+case12110,S5 strong K,richardson,solved,7
+case12110,S5 strong K,richardson + FE,solved,40
+case12110,S5 strong K,richardson + RK2,solved,46
+case12110,S5 strong K,richardson + RK4,other root,76
+case12110,S5 strong K,OM + richardson,solved,7
+case12110,S5 strong K,BE-chord,other root,6
+case12110,S5 strong K,RK4,failed,14
+case12110,S5 strong K,scaled homotopy,solved,5
+case12110,S5 strong K,newton homotopy,failed,12
+case14limit,S1 paper,paper,failed,12
+case14limit,S1 paper,adaptive,failed,12
+case14limit,S1 paper,PC,solved,13
+case14limit,S1 paper,PC + adaptive,solved,13
+case14limit,S1 paper,OM,solved,10
+case14limit,S1 paper,OM + adaptive,solved,10
+case14limit,S1 paper,OM + PC,solved,10
+case14limit,S1 paper,OM + PC + adaptive,solved,10
+case14limit,S1 paper,richardson,solved,14
+case14limit,S1 paper,richardson + FE,solved,34
+case14limit,S1 paper,richardson + RK2,solved,57
+case14limit,S1 paper,richardson + RK4,solved,129
+case14limit,S1 paper,OM + richardson,solved,12
+case14limit,S1 paper,BE-chord,failed,12
+case14limit,S1 paper,RK4,failed,15
+case14limit,S1 paper,scaled homotopy,failed,12
+case14limit,S1 paper,newton homotopy,failed,12
+case14limit,S2 Sec 4.4,paper,failed,12
+case14limit,S2 Sec 4.4,adaptive,failed,12
+case14limit,S2 Sec 4.4,PC,solved,13
+case14limit,S2 Sec 4.4,PC + adaptive,solved,13
+case14limit,S2 Sec 4.4,OM,solved,10
+case14limit,S2 Sec 4.4,OM + adaptive,solved,10
+case14limit,S2 Sec 4.4,OM + PC,solved,11
+case14limit,S2 Sec 4.4,OM + PC + adaptive,solved,11
+case14limit,S2 Sec 4.4,richardson,solved,14
+case14limit,S2 Sec 4.4,richardson + FE,solved,26
+case14limit,S2 Sec 4.4,richardson + RK2,solved,35
+case14limit,S2 Sec 4.4,richardson + RK4,solved,46
+case14limit,S2 Sec 4.4,OM + richardson,solved,12
+case14limit,S2 Sec 4.4,BE-chord,failed,12
+case14limit,S2 Sec 4.4,RK4,failed,15
+case14limit,S2 Sec 4.4,scaled homotopy,failed,12
+case14limit,S2 Sec 4.4,newton homotopy,failed,12
+case14limit,S3 Sec 4.4,paper,failed,12
+case14limit,S3 Sec 4.4,adaptive,failed,12
+case14limit,S3 Sec 4.4,PC,solved,13
+case14limit,S3 Sec 4.4,PC + adaptive,solved,13
+case14limit,S3 Sec 4.4,OM,solved,10
+case14limit,S3 Sec 4.4,OM + adaptive,solved,10
+case14limit,S3 Sec 4.4,OM + PC,solved,11
+case14limit,S3 Sec 4.4,OM + PC + adaptive,solved,11
+case14limit,S3 Sec 4.4,richardson,solved,14
+case14limit,S3 Sec 4.4,richardson + FE,failed,29
+case14limit,S3 Sec 4.4,richardson + RK2,solved,29
+case14limit,S3 Sec 4.4,richardson + RK4,solved,23
+case14limit,S3 Sec 4.4,OM + richardson,solved,12
+case14limit,S3 Sec 4.4,BE-chord,failed,12
+case14limit,S3 Sec 4.4,RK4,failed,15
+case14limit,S3 Sec 4.4,scaled homotopy,failed,12
+case14limit,S3 Sec 4.4,newton homotopy,failed,12
+case14limit,S4 weak K,paper,failed,12
+case14limit,S4 weak K,adaptive,failed,12
+case14limit,S4 weak K,PC,solved,13
+case14limit,S4 weak K,PC + adaptive,solved,13
+case14limit,S4 weak K,OM,solved,10
+case14limit,S4 weak K,OM + adaptive,solved,10
+case14limit,S4 weak K,OM + PC,solved,10
+case14limit,S4 weak K,OM + PC + adaptive,solved,10
+case14limit,S4 weak K,richardson,solved,14
+case14limit,S4 weak K,richardson + FE,solved,37
+case14limit,S4 weak K,richardson + RK2,solved,64
+case14limit,S4 weak K,richardson + RK4,solved,142
+case14limit,S4 weak K,OM + richardson,solved,12
+case14limit,S4 weak K,BE-chord,failed,12
+case14limit,S4 weak K,RK4,failed,15
+case14limit,S4 weak K,scaled homotopy,failed,12
+case14limit,S4 weak K,newton homotopy,failed,12
+case14limit,S5 strong K,paper,failed,12
+case14limit,S5 strong K,adaptive,failed,12
+case14limit,S5 strong K,PC,solved,14
+case14limit,S5 strong K,PC + adaptive,solved,14
+case14limit,S5 strong K,OM,solved,9
+case14limit,S5 strong K,OM + adaptive,solved,9
+case14limit,S5 strong K,OM + PC,solved,11
+case14limit,S5 strong K,OM + PC + adaptive,solved,11
+case14limit,S5 strong K,richardson,solved,14
+case14limit,S5 strong K,richardson + FE,solved,37
+case14limit,S5 strong K,richardson + RK2,solved,56
+case14limit,S5 strong K,richardson + RK4,solved,104
+case14limit,S5 strong K,OM + richardson,solved,12
+case14limit,S5 strong K,BE-chord,failed,12
+case14limit,S5 strong K,RK4,failed,15
+case14limit,S5 strong K,scaled homotopy,failed,12
+case14limit,S5 strong K,newton homotopy,failed,12
+case_ieee30limit,S1 paper,paper,solved,10
+case_ieee30limit,S1 paper,adaptive,solved,10
+case_ieee30limit,S1 paper,PC,solved,11
+case_ieee30limit,S1 paper,PC + adaptive,solved,11
+case_ieee30limit,S1 paper,OM,solved,9
+case_ieee30limit,S1 paper,OM + adaptive,solved,9
+case_ieee30limit,S1 paper,OM + PC,solved,9
+case_ieee30limit,S1 paper,OM + PC + adaptive,solved,9
+case_ieee30limit,S1 paper,richardson,solved,11
+case_ieee30limit,S1 paper,richardson + FE,solved,32
+case_ieee30limit,S1 paper,richardson + RK2,solved,61
+case_ieee30limit,S1 paper,richardson + RK4,solved,102
+case_ieee30limit,S1 paper,OM + richardson,solved,10
+case_ieee30limit,S1 paper,BE-chord,solved,11
+case_ieee30limit,S1 paper,RK4,failed,15
+case_ieee30limit,S1 paper,scaled homotopy,solved,10
+case_ieee30limit,S1 paper,newton homotopy,solved,11
+case_ieee30limit,S2 Sec 4.4,paper,solved,11
+case_ieee30limit,S2 Sec 4.4,adaptive,solved,11
+case_ieee30limit,S2 Sec 4.4,PC,solved,11
+case_ieee30limit,S2 Sec 4.4,PC + adaptive,solved,11
+case_ieee30limit,S2 Sec 4.4,OM,solved,9
+case_ieee30limit,S2 Sec 4.4,OM + adaptive,solved,9
+case_ieee30limit,S2 Sec 4.4,OM + PC,solved,9
+case_ieee30limit,S2 Sec 4.4,OM + PC + adaptive,solved,9
+case_ieee30limit,S2 Sec 4.4,richardson,solved,12
+case_ieee30limit,S2 Sec 4.4,richardson + FE,solved,24
+case_ieee30limit,S2 Sec 4.4,richardson + RK2,solved,38
+case_ieee30limit,S2 Sec 4.4,richardson + RK4,solved,47
+case_ieee30limit,S2 Sec 4.4,OM + richardson,solved,10
+case_ieee30limit,S2 Sec 4.4,BE-chord,solved,11
+case_ieee30limit,S2 Sec 4.4,RK4,failed,15
+case_ieee30limit,S2 Sec 4.4,scaled homotopy,solved,10
+case_ieee30limit,S2 Sec 4.4,newton homotopy,solved,11
+case_ieee30limit,S3 Sec 4.4,paper,solved,11
+case_ieee30limit,S3 Sec 4.4,adaptive,solved,11
+case_ieee30limit,S3 Sec 4.4,PC,solved,11
+case_ieee30limit,S3 Sec 4.4,PC + adaptive,solved,11
+case_ieee30limit,S3 Sec 4.4,OM,solved,9
+case_ieee30limit,S3 Sec 4.4,OM + adaptive,solved,9
+case_ieee30limit,S3 Sec 4.4,OM + PC,solved,9
+case_ieee30limit,S3 Sec 4.4,OM + PC + adaptive,solved,9
+case_ieee30limit,S3 Sec 4.4,richardson,solved,12
+case_ieee30limit,S3 Sec 4.4,richardson + FE,solved,24
+case_ieee30limit,S3 Sec 4.4,richardson + RK2,solved,33
+case_ieee30limit,S3 Sec 4.4,richardson + RK4,failed,23
+case_ieee30limit,S3 Sec 4.4,OM + richardson,solved,10
+case_ieee30limit,S3 Sec 4.4,BE-chord,solved,11
+case_ieee30limit,S3 Sec 4.4,RK4,failed,15
+case_ieee30limit,S3 Sec 4.4,scaled homotopy,solved,11
+case_ieee30limit,S3 Sec 4.4,newton homotopy,solved,11
+case_ieee30limit,S4 weak K,paper,solved,10
+case_ieee30limit,S4 weak K,adaptive,solved,10
+case_ieee30limit,S4 weak K,PC,solved,10
+case_ieee30limit,S4 weak K,PC + adaptive,solved,10
+case_ieee30limit,S4 weak K,OM,solved,9
+case_ieee30limit,S4 weak K,OM + adaptive,solved,9
+case_ieee30limit,S4 weak K,OM + PC,solved,8
+case_ieee30limit,S4 weak K,OM + PC + adaptive,solved,8
+case_ieee30limit,S4 weak K,richardson,solved,11
+case_ieee30limit,S4 weak K,richardson + FE,solved,32
+case_ieee30limit,S4 weak K,richardson + RK2,solved,54
+case_ieee30limit,S4 weak K,richardson + RK4,solved,140
+case_ieee30limit,S4 weak K,OM + richardson,solved,10
+case_ieee30limit,S4 weak K,BE-chord,solved,11
+case_ieee30limit,S4 weak K,RK4,failed,15
+case_ieee30limit,S4 weak K,scaled homotopy,solved,10
+case_ieee30limit,S4 weak K,newton homotopy,solved,11
+case_ieee30limit,S5 strong K,paper,solved,11
+case_ieee30limit,S5 strong K,adaptive,solved,11
+case_ieee30limit,S5 strong K,PC,solved,12
+case_ieee30limit,S5 strong K,PC + adaptive,solved,12
+case_ieee30limit,S5 strong K,OM,solved,9
+case_ieee30limit,S5 strong K,OM + adaptive,solved,9
+case_ieee30limit,S5 strong K,OM + PC,solved,10
+case_ieee30limit,S5 strong K,OM + PC + adaptive,solved,10
+case_ieee30limit,S5 strong K,richardson,solved,12
+case_ieee30limit,S5 strong K,richardson + FE,solved,41
+case_ieee30limit,S5 strong K,richardson + RK2,solved,49
+case_ieee30limit,S5 strong K,richardson + RK4,solved,102
+case_ieee30limit,S5 strong K,OM + richardson,solved,10
+case_ieee30limit,S5 strong K,BE-chord,solved,11
+case_ieee30limit,S5 strong K,RK4,failed,15
+case_ieee30limit,S5 strong K,scaled homotopy,solved,11
+case_ieee30limit,S5 strong K,newton homotopy,solved,11
+case57limit,S1 paper,paper,solved,11
+case57limit,S1 paper,adaptive,solved,11
+case57limit,S1 paper,PC,solved,11
+case57limit,S1 paper,PC + adaptive,solved,11
+case57limit,S1 paper,OM,solved,9
+case57limit,S1 paper,OM + adaptive,solved,9
+case57limit,S1 paper,OM + PC,solved,9
+case57limit,S1 paper,OM + PC + adaptive,solved,9
+case57limit,S1 paper,richardson,solved,12
+case57limit,S1 paper,richardson + FE,solved,31
+case57limit,S1 paper,richardson + RK2,solved,53
+case57limit,S1 paper,richardson + RK4,solved,139
+case57limit,S1 paper,OM + richardson,solved,10
+case57limit,S1 paper,BE-chord,solved,11
+case57limit,S1 paper,RK4,failed,15
+case57limit,S1 paper,scaled homotopy,solved,10
+case57limit,S1 paper,newton homotopy,solved,11
+case57limit,S2 Sec 4.4,paper,solved,11
+case57limit,S2 Sec 4.4,adaptive,solved,11
+case57limit,S2 Sec 4.4,PC,solved,11
+case57limit,S2 Sec 4.4,PC + adaptive,solved,11
+case57limit,S2 Sec 4.4,OM,solved,9
+case57limit,S2 Sec 4.4,OM + adaptive,solved,9
+case57limit,S2 Sec 4.4,OM + PC,solved,9
+case57limit,S2 Sec 4.4,OM + PC + adaptive,solved,9
+case57limit,S2 Sec 4.4,richardson,solved,12
+case57limit,S2 Sec 4.4,richardson + FE,solved,24
+case57limit,S2 Sec 4.4,richardson + RK2,solved,43
+case57limit,S2 Sec 4.4,richardson + RK4,solved,67
+case57limit,S2 Sec 4.4,OM + richardson,solved,10
+case57limit,S2 Sec 4.4,BE-chord,solved,11
+case57limit,S2 Sec 4.4,RK4,failed,15
+case57limit,S2 Sec 4.4,scaled homotopy,solved,10
+case57limit,S2 Sec 4.4,newton homotopy,solved,11
+case57limit,S3 Sec 4.4,paper,solved,11
+case57limit,S3 Sec 4.4,adaptive,solved,11
+case57limit,S3 Sec 4.4,PC,solved,11
+case57limit,S3 Sec 4.4,PC + adaptive,solved,11
+case57limit,S3 Sec 4.4,OM,solved,9
+case57limit,S3 Sec 4.4,OM + adaptive,solved,9
+case57limit,S3 Sec 4.4,OM + PC,solved,9
+case57limit,S3 Sec 4.4,OM + PC + adaptive,solved,9
+case57limit,S3 Sec 4.4,richardson,solved,12
+case57limit,S3 Sec 4.4,richardson + FE,solved,21
+case57limit,S3 Sec 4.4,richardson + RK2,solved,25
+case57limit,S3 Sec 4.4,richardson + RK4,solved,47
+case57limit,S3 Sec 4.4,OM + richardson,solved,10
+case57limit,S3 Sec 4.4,BE-chord,solved,11
+case57limit,S3 Sec 4.4,RK4,failed,15
+case57limit,S3 Sec 4.4,scaled homotopy,solved,11
+case57limit,S3 Sec 4.4,newton homotopy,solved,11
+case57limit,S4 weak K,paper,solved,10
+case57limit,S4 weak K,adaptive,solved,10
+case57limit,S4 weak K,PC,solved,10
+case57limit,S4 weak K,PC + adaptive,solved,10
+case57limit,S4 weak K,OM,solved,9
+case57limit,S4 weak K,OM + adaptive,solved,9
+case57limit,S4 weak K,OM + PC,solved,8
+case57limit,S4 weak K,OM + PC + adaptive,solved,8
+case57limit,S4 weak K,richardson,solved,11
+case57limit,S4 weak K,richardson + FE,solved,32
+case57limit,S4 weak K,richardson + RK2,solved,61
+case57limit,S4 weak K,richardson + RK4,other root,154
+case57limit,S4 weak K,OM + richardson,solved,10
+case57limit,S4 weak K,BE-chord,solved,11
+case57limit,S4 weak K,RK4,failed,15
+case57limit,S4 weak K,scaled homotopy,solved,10
+case57limit,S4 weak K,newton homotopy,solved,11
+case57limit,S5 strong K,paper,solved,11
+case57limit,S5 strong K,adaptive,solved,11
+case57limit,S5 strong K,PC,solved,12
+case57limit,S5 strong K,PC + adaptive,solved,12
+case57limit,S5 strong K,OM,solved,9
+case57limit,S5 strong K,OM + adaptive,solved,9
+case57limit,S5 strong K,OM + PC,solved,10
+case57limit,S5 strong K,OM + PC + adaptive,solved,10
+case57limit,S5 strong K,richardson,solved,12
+case57limit,S5 strong K,richardson + FE,solved,40
+case57limit,S5 strong K,richardson + RK2,solved,49
+case57limit,S5 strong K,richardson + RK4,solved,94
+case57limit,S5 strong K,OM + richardson,solved,10
+case57limit,S5 strong K,BE-chord,solved,11
+case57limit,S5 strong K,RK4,failed,15
+case57limit,S5 strong K,scaled homotopy,solved,11
+case57limit,S5 strong K,newton homotopy,solved,11
+case89pegaselimit,S1 paper,paper,solved,11
+case89pegaselimit,S1 paper,adaptive,solved,11
+case89pegaselimit,S1 paper,PC,solved,11
+case89pegaselimit,S1 paper,PC + adaptive,solved,11
+case89pegaselimit,S1 paper,OM,solved,9
+case89pegaselimit,S1 paper,OM + adaptive,solved,9
+case89pegaselimit,S1 paper,OM + PC,solved,9
+case89pegaselimit,S1 paper,OM + PC + adaptive,solved,9
+case89pegaselimit,S1 paper,richardson,solved,12
+case89pegaselimit,S1 paper,richardson + FE,solved,32
+case89pegaselimit,S1 paper,richardson + RK2,solved,54
+case89pegaselimit,S1 paper,richardson + RK4,solved,141
+case89pegaselimit,S1 paper,OM + richardson,solved,10
+case89pegaselimit,S1 paper,BE-chord,solved,12
+case89pegaselimit,S1 paper,RK4,failed,15
+case89pegaselimit,S1 paper,scaled homotopy,solved,11
+case89pegaselimit,S1 paper,newton homotopy,solved,12
+case89pegaselimit,S2 Sec 4.4,paper,solved,11
+case89pegaselimit,S2 Sec 4.4,adaptive,solved,11
+case89pegaselimit,S2 Sec 4.4,PC,solved,11
+case89pegaselimit,S2 Sec 4.4,PC + adaptive,solved,11
+case89pegaselimit,S2 Sec 4.4,OM,solved,9
+case89pegaselimit,S2 Sec 4.4,OM + adaptive,solved,9
+case89pegaselimit,S2 Sec 4.4,OM + PC,solved,9
+case89pegaselimit,S2 Sec 4.4,OM + PC + adaptive,solved,9
+case89pegaselimit,S2 Sec 4.4,richardson,solved,12
+case89pegaselimit,S2 Sec 4.4,richardson + FE,solved,25
+case89pegaselimit,S2 Sec 4.4,richardson + RK2,solved,40
+case89pegaselimit,S2 Sec 4.4,richardson + RK4,solved,68
+case89pegaselimit,S2 Sec 4.4,OM + richardson,solved,11
+case89pegaselimit,S2 Sec 4.4,BE-chord,solved,12
+case89pegaselimit,S2 Sec 4.4,RK4,failed,15
+case89pegaselimit,S2 Sec 4.4,scaled homotopy,solved,11
+case89pegaselimit,S2 Sec 4.4,newton homotopy,solved,12
+case89pegaselimit,S3 Sec 4.4,paper,solved,11
+case89pegaselimit,S3 Sec 4.4,adaptive,solved,11
+case89pegaselimit,S3 Sec 4.4,PC,solved,11
+case89pegaselimit,S3 Sec 4.4,PC + adaptive,solved,11
+case89pegaselimit,S3 Sec 4.4,OM,solved,9
+case89pegaselimit,S3 Sec 4.4,OM + adaptive,solved,9
+case89pegaselimit,S3 Sec 4.4,OM + PC,solved,9
+case89pegaselimit,S3 Sec 4.4,OM + PC + adaptive,solved,9
+case89pegaselimit,S3 Sec 4.4,richardson,solved,12
+case89pegaselimit,S3 Sec 4.4,richardson + FE,solved,22
+case89pegaselimit,S3 Sec 4.4,richardson + RK2,solved,34
+case89pegaselimit,S3 Sec 4.4,richardson + RK4,solved,46
+case89pegaselimit,S3 Sec 4.4,OM + richardson,solved,11
+case89pegaselimit,S3 Sec 4.4,BE-chord,solved,12
+case89pegaselimit,S3 Sec 4.4,RK4,failed,15
+case89pegaselimit,S3 Sec 4.4,scaled homotopy,solved,11
+case89pegaselimit,S3 Sec 4.4,newton homotopy,solved,12
+case89pegaselimit,S4 weak K,paper,solved,11
+case89pegaselimit,S4 weak K,adaptive,solved,11
+case89pegaselimit,S4 weak K,PC,solved,11
+case89pegaselimit,S4 weak K,PC + adaptive,solved,11
+case89pegaselimit,S4 weak K,OM,solved,9
+case89pegaselimit,S4 weak K,OM + adaptive,solved,9
+case89pegaselimit,S4 weak K,OM + PC,solved,9
+case89pegaselimit,S4 weak K,OM + PC + adaptive,solved,9
+case89pegaselimit,S4 weak K,richardson,solved,12
+case89pegaselimit,S4 weak K,richardson + FE,solved,32
+case89pegaselimit,S4 weak K,richardson + RK2,solved,73
+case89pegaselimit,S4 weak K,richardson + RK4,solved,105
+case89pegaselimit,S4 weak K,OM + richardson,solved,10
+case89pegaselimit,S4 weak K,BE-chord,solved,12
+case89pegaselimit,S4 weak K,RK4,failed,15
+case89pegaselimit,S4 weak K,scaled homotopy,solved,11
+case89pegaselimit,S4 weak K,newton homotopy,solved,12
+case89pegaselimit,S5 strong K,paper,solved,11
+case89pegaselimit,S5 strong K,adaptive,solved,11
+case89pegaselimit,S5 strong K,PC,solved,11
+case89pegaselimit,S5 strong K,PC + adaptive,solved,11
+case89pegaselimit,S5 strong K,OM,solved,9
+case89pegaselimit,S5 strong K,OM + adaptive,solved,9
+case89pegaselimit,S5 strong K,OM + PC,solved,9
+case89pegaselimit,S5 strong K,OM + PC + adaptive,solved,9
+case89pegaselimit,S5 strong K,richardson,solved,12
+case89pegaselimit,S5 strong K,richardson + FE,solved,32
+case89pegaselimit,S5 strong K,richardson + RK2,solved,61
+case89pegaselimit,S5 strong K,richardson + RK4,solved,115
+case89pegaselimit,S5 strong K,OM + richardson,solved,10
+case89pegaselimit,S5 strong K,BE-chord,solved,11
+case89pegaselimit,S5 strong K,RK4,failed,15
+case89pegaselimit,S5 strong K,scaled homotopy,solved,11
+case89pegaselimit,S5 strong K,newton homotopy,solved,12
+case118limit,S1 paper,paper,solved,10
+case118limit,S1 paper,adaptive,solved,10
+case118limit,S1 paper,PC,solved,11
+case118limit,S1 paper,PC + adaptive,solved,11
+case118limit,S1 paper,OM,solved,9
+case118limit,S1 paper,OM + adaptive,solved,9
+case118limit,S1 paper,OM + PC,solved,9
+case118limit,S1 paper,OM + PC + adaptive,solved,9
+case118limit,S1 paper,richardson,solved,11
+case118limit,S1 paper,richardson + FE,solved,43
+case118limit,S1 paper,richardson + RK2,solved,54
+case118limit,S1 paper,richardson + RK4,other root,103
+case118limit,S1 paper,OM + richardson,solved,9
+case118limit,S1 paper,BE-chord,solved,11
+case118limit,S1 paper,RK4,failed,15
+case118limit,S1 paper,scaled homotopy,solved,10
+case118limit,S1 paper,newton homotopy,solved,11
+case118limit,S2 Sec 4.4,paper,solved,10
+case118limit,S2 Sec 4.4,adaptive,solved,10
+case118limit,S2 Sec 4.4,PC,solved,11
+case118limit,S2 Sec 4.4,PC + adaptive,solved,11
+case118limit,S2 Sec 4.4,OM,solved,9
+case118limit,S2 Sec 4.4,OM + adaptive,solved,9
+case118limit,S2 Sec 4.4,OM + PC,solved,9
+case118limit,S2 Sec 4.4,OM + PC + adaptive,solved,9
+case118limit,S2 Sec 4.4,richardson,solved,11
+case118limit,S2 Sec 4.4,richardson + FE,solved,26
+case118limit,S2 Sec 4.4,richardson + RK2,solved,32
+case118limit,S2 Sec 4.4,richardson + RK4,solved,44
+case118limit,S2 Sec 4.4,OM + richardson,solved,10
+case118limit,S2 Sec 4.4,BE-chord,solved,11
+case118limit,S2 Sec 4.4,RK4,failed,15
+case118limit,S2 Sec 4.4,scaled homotopy,solved,10
+case118limit,S2 Sec 4.4,newton homotopy,solved,11
+case118limit,S3 Sec 4.4,paper,solved,10
+case118limit,S3 Sec 4.4,adaptive,solved,10
+case118limit,S3 Sec 4.4,PC,solved,11
+case118limit,S3 Sec 4.4,PC + adaptive,solved,11
+case118limit,S3 Sec 4.4,OM,solved,9
+case118limit,S3 Sec 4.4,OM + adaptive,solved,9
+case118limit,S3 Sec 4.4,OM + PC,solved,9
+case118limit,S3 Sec 4.4,OM + PC + adaptive,solved,9
+case118limit,S3 Sec 4.4,richardson,solved,12
+case118limit,S3 Sec 4.4,richardson + FE,solved,27
+case118limit,S3 Sec 4.4,richardson + RK2,solved,32
+case118limit,S3 Sec 4.4,richardson + RK4,solved,20
+case118limit,S3 Sec 4.4,OM + richardson,solved,10
+case118limit,S3 Sec 4.4,BE-chord,solved,11
+case118limit,S3 Sec 4.4,RK4,other root,13
+case118limit,S3 Sec 4.4,scaled homotopy,solved,10
+case118limit,S3 Sec 4.4,newton homotopy,solved,11
+case118limit,S4 weak K,paper,solved,10
+case118limit,S4 weak K,adaptive,solved,10
+case118limit,S4 weak K,PC,solved,10
+case118limit,S4 weak K,PC + adaptive,solved,10
+case118limit,S4 weak K,OM,solved,8
+case118limit,S4 weak K,OM + adaptive,solved,8
+case118limit,S4 weak K,OM + PC,solved,8
+case118limit,S4 weak K,OM + PC + adaptive,solved,8
+case118limit,S4 weak K,richardson,solved,11
+case118limit,S4 weak K,richardson + FE,solved,37
+case118limit,S4 weak K,richardson + RK2,solved,54
+case118limit,S4 weak K,richardson + RK4,solved,126
+case118limit,S4 weak K,OM + richardson,solved,9
+case118limit,S4 weak K,BE-chord,solved,11
+case118limit,S4 weak K,RK4,failed,15
+case118limit,S4 weak K,scaled homotopy,solved,10
+case118limit,S4 weak K,newton homotopy,solved,11
+case118limit,S5 strong K,paper,solved,11
+case118limit,S5 strong K,adaptive,solved,19
+case118limit,S5 strong K,PC,solved,12
+case118limit,S5 strong K,PC + adaptive,solved,40
+case118limit,S5 strong K,OM,solved,9
+case118limit,S5 strong K,OM + adaptive,solved,17
+case118limit,S5 strong K,OM + PC,solved,10
+case118limit,S5 strong K,OM + PC + adaptive,solved,39
+case118limit,S5 strong K,richardson,solved,12
+case118limit,S5 strong K,richardson + FE,solved,40
+case118limit,S5 strong K,richardson + RK2,solved,55
+case118limit,S5 strong K,richardson + RK4,solved,90
+case118limit,S5 strong K,OM + richardson,solved,10
+case118limit,S5 strong K,BE-chord,solved,11
+case118limit,S5 strong K,RK4,failed,15
+case118limit,S5 strong K,scaled homotopy,solved,11
+case118limit,S5 strong K,newton homotopy,solved,11
+case300limit,S1 paper,paper,solved,10
+case300limit,S1 paper,adaptive,solved,10
+case300limit,S1 paper,PC,solved,11
+case300limit,S1 paper,PC + adaptive,solved,11
+case300limit,S1 paper,OM,solved,8
+case300limit,S1 paper,OM + adaptive,solved,8
+case300limit,S1 paper,OM + PC,solved,9
+case300limit,S1 paper,OM + PC + adaptive,solved,9
+case300limit,S1 paper,richardson,solved,11
+case300limit,S1 paper,richardson + FE,solved,37
+case300limit,S1 paper,richardson + RK2,solved,49
+case300limit,S1 paper,richardson + RK4,solved,78
+case300limit,S1 paper,OM + richardson,solved,9
+case300limit,S1 paper,BE-chord,solved,11
+case300limit,S1 paper,RK4,failed,15
+case300limit,S1 paper,scaled homotopy,solved,10
+case300limit,S1 paper,newton homotopy,solved,11
+case300limit,S2 Sec 4.4,paper,solved,10
+case300limit,S2 Sec 4.4,adaptive,solved,10
+case300limit,S2 Sec 4.4,PC,solved,11
+case300limit,S2 Sec 4.4,PC + adaptive,solved,11
+case300limit,S2 Sec 4.4,OM,solved,8
+case300limit,S2 Sec 4.4,OM + adaptive,solved,8
+case300limit,S2 Sec 4.4,OM + PC,solved,9
+case300limit,S2 Sec 4.4,OM + PC + adaptive,solved,9
+case300limit,S2 Sec 4.4,richardson,solved,11
+case300limit,S2 Sec 4.4,richardson + FE,solved,26
+case300limit,S2 Sec 4.4,richardson + RK2,solved,32
+case300limit,S2 Sec 4.4,richardson + RK4,failed,23
+case300limit,S2 Sec 4.4,OM + richardson,solved,10
+case300limit,S2 Sec 4.4,BE-chord,solved,11
+case300limit,S2 Sec 4.4,RK4,failed,15
+case300limit,S2 Sec 4.4,scaled homotopy,solved,10
+case300limit,S2 Sec 4.4,newton homotopy,solved,11
+case300limit,S3 Sec 4.4,paper,solved,10
+case300limit,S3 Sec 4.4,adaptive,solved,10
+case300limit,S3 Sec 4.4,PC,solved,11
+case300limit,S3 Sec 4.4,PC + adaptive,solved,11
+case300limit,S3 Sec 4.4,OM,solved,8
+case300limit,S3 Sec 4.4,OM + adaptive,solved,8
+case300limit,S3 Sec 4.4,OM + PC,solved,9
+case300limit,S3 Sec 4.4,OM + PC + adaptive,solved,9
+case300limit,S3 Sec 4.4,richardson,solved,12
+case300limit,S3 Sec 4.4,richardson + FE,solved,24
+case300limit,S3 Sec 4.4,richardson + RK2,solved,26
+case300limit,S3 Sec 4.4,richardson + RK4,solved,20
+case300limit,S3 Sec 4.4,OM + richardson,solved,10
+case300limit,S3 Sec 4.4,BE-chord,solved,11
+case300limit,S3 Sec 4.4,RK4,failed,15
+case300limit,S3 Sec 4.4,scaled homotopy,solved,10
+case300limit,S3 Sec 4.4,newton homotopy,solved,11
+case300limit,S4 weak K,paper,solved,10
+case300limit,S4 weak K,adaptive,solved,10
+case300limit,S4 weak K,PC,solved,10
+case300limit,S4 weak K,PC + adaptive,solved,10
+case300limit,S4 weak K,OM,solved,8
+case300limit,S4 weak K,OM + adaptive,solved,8
+case300limit,S4 weak K,OM + PC,solved,8
+case300limit,S4 weak K,OM + PC + adaptive,solved,8
+case300limit,S4 weak K,richardson,solved,11
+case300limit,S4 weak K,richardson + FE,solved,34
+case300limit,S4 weak K,richardson + RK2,solved,54
+case300limit,S4 weak K,richardson + RK4,solved,90
+case300limit,S4 weak K,OM + richardson,solved,9
+case300limit,S4 weak K,BE-chord,solved,11
+case300limit,S4 weak K,RK4,failed,15
+case300limit,S4 weak K,scaled homotopy,solved,10
+case300limit,S4 weak K,newton homotopy,solved,11
+case300limit,S5 strong K,paper,solved,10
+case300limit,S5 strong K,adaptive,solved,10
+case300limit,S5 strong K,PC,solved,11
+case300limit,S5 strong K,PC + adaptive,solved,20
+case300limit,S5 strong K,OM,solved,9
+case300limit,S5 strong K,OM + adaptive,solved,9
+case300limit,S5 strong K,OM + PC,solved,9
+case300limit,S5 strong K,OM + PC + adaptive,solved,19
+case300limit,S5 strong K,richardson,solved,11
+case300limit,S5 strong K,richardson + FE,solved,32
+case300limit,S5 strong K,richardson + RK2,solved,49
+case300limit,S5 strong K,richardson + RK4,solved,102
+case300limit,S5 strong K,OM + richardson,solved,10
+case300limit,S5 strong K,BE-chord,solved,11
+case300limit,S5 strong K,RK4,failed,15
+case300limit,S5 strong K,scaled homotopy,solved,10
+case300limit,S5 strong K,newton homotopy,solved,11
+case1354pegaselimit,S1 paper,paper,solved,12
+case1354pegaselimit,S1 paper,adaptive,solved,12
+case1354pegaselimit,S1 paper,PC,solved,12
+case1354pegaselimit,S1 paper,PC + adaptive,solved,12
+case1354pegaselimit,S1 paper,OM,solved,9
+case1354pegaselimit,S1 paper,OM + adaptive,solved,9
+case1354pegaselimit,S1 paper,OM + PC,solved,10
+case1354pegaselimit,S1 paper,OM + PC + adaptive,solved,10
+case1354pegaselimit,S1 paper,richardson,solved,13
+case1354pegaselimit,S1 paper,richardson + FE,solved,44
+case1354pegaselimit,S1 paper,richardson + RK2,solved,55
+case1354pegaselimit,S1 paper,richardson + RK4,solved,104
+case1354pegaselimit,S1 paper,OM + richardson,solved,10
+case1354pegaselimit,S1 paper,BE-chord,solved,12
+case1354pegaselimit,S1 paper,RK4,failed,15
+case1354pegaselimit,S1 paper,scaled homotopy,solved,12
+case1354pegaselimit,S1 paper,newton homotopy,solved,12
+case1354pegaselimit,S2 Sec 4.4,paper,solved,12
+case1354pegaselimit,S2 Sec 4.4,adaptive,solved,12
+case1354pegaselimit,S2 Sec 4.4,PC,solved,12
+case1354pegaselimit,S2 Sec 4.4,PC + adaptive,solved,12
+case1354pegaselimit,S2 Sec 4.4,OM,solved,9
+case1354pegaselimit,S2 Sec 4.4,OM + adaptive,solved,9
+case1354pegaselimit,S2 Sec 4.4,OM + PC,solved,10
+case1354pegaselimit,S2 Sec 4.4,OM + PC + adaptive,solved,10
+case1354pegaselimit,S2 Sec 4.4,richardson,solved,13
+case1354pegaselimit,S2 Sec 4.4,richardson + FE,solved,30
+case1354pegaselimit,S2 Sec 4.4,richardson + RK2,solved,39
+case1354pegaselimit,S2 Sec 4.4,richardson + RK4,solved,69
+case1354pegaselimit,S2 Sec 4.4,OM + richardson,solved,11
+case1354pegaselimit,S2 Sec 4.4,BE-chord,solved,12
+case1354pegaselimit,S2 Sec 4.4,RK4,failed,15
+case1354pegaselimit,S2 Sec 4.4,scaled homotopy,solved,12
+case1354pegaselimit,S2 Sec 4.4,newton homotopy,solved,12
+case1354pegaselimit,S3 Sec 4.4,paper,solved,12
+case1354pegaselimit,S3 Sec 4.4,adaptive,solved,12
+case1354pegaselimit,S3 Sec 4.4,PC,solved,12
+case1354pegaselimit,S3 Sec 4.4,PC + adaptive,solved,12
+case1354pegaselimit,S3 Sec 4.4,OM,solved,10
+case1354pegaselimit,S3 Sec 4.4,OM + adaptive,solved,10
+case1354pegaselimit,S3 Sec 4.4,OM + PC,solved,10
+case1354pegaselimit,S3 Sec 4.4,OM + PC + adaptive,solved,10
+case1354pegaselimit,S3 Sec 4.4,richardson,solved,13
+case1354pegaselimit,S3 Sec 4.4,richardson + FE,solved,28
+case1354pegaselimit,S3 Sec 4.4,richardson + RK2,solved,34
+case1354pegaselimit,S3 Sec 4.4,richardson + RK4,solved,70
+case1354pegaselimit,S3 Sec 4.4,OM + richardson,solved,11
+case1354pegaselimit,S3 Sec 4.4,BE-chord,solved,12
+case1354pegaselimit,S3 Sec 4.4,RK4,failed,15
+case1354pegaselimit,S3 Sec 4.4,scaled homotopy,solved,12
+case1354pegaselimit,S3 Sec 4.4,newton homotopy,solved,12
+case1354pegaselimit,S4 weak K,paper,solved,11
+case1354pegaselimit,S4 weak K,adaptive,solved,11
+case1354pegaselimit,S4 weak K,PC,solved,12
+case1354pegaselimit,S4 weak K,PC + adaptive,solved,12
+case1354pegaselimit,S4 weak K,OM,solved,9
+case1354pegaselimit,S4 weak K,OM + adaptive,solved,9
+case1354pegaselimit,S4 weak K,OM + PC,solved,10
+case1354pegaselimit,S4 weak K,OM + PC + adaptive,solved,10
+case1354pegaselimit,S4 weak K,richardson,solved,12
+case1354pegaselimit,S4 weak K,richardson + FE,solved,41
+case1354pegaselimit,S4 weak K,richardson + RK2,solved,56
+case1354pegaselimit,S4 weak K,richardson + RK4,solved,103
+case1354pegaselimit,S4 weak K,OM + richardson,solved,10
+case1354pegaselimit,S4 weak K,BE-chord,solved,12
+case1354pegaselimit,S4 weak K,RK4,failed,15
+case1354pegaselimit,S4 weak K,scaled homotopy,solved,11
+case1354pegaselimit,S4 weak K,newton homotopy,solved,12
+case1354pegaselimit,S5 strong K,paper,solved,12
+case1354pegaselimit,S5 strong K,adaptive,solved,12
+case1354pegaselimit,S5 strong K,PC,solved,13
+case1354pegaselimit,S5 strong K,PC + adaptive,solved,55
+case1354pegaselimit,S5 strong K,OM,solved,10
+case1354pegaselimit,S5 strong K,OM + adaptive,solved,10
+case1354pegaselimit,S5 strong K,OM + PC,solved,11
+case1354pegaselimit,S5 strong K,OM + PC + adaptive,solved,55
+case1354pegaselimit,S5 strong K,richardson,solved,13
+case1354pegaselimit,S5 strong K,richardson + FE,solved,38
+case1354pegaselimit,S5 strong K,richardson + RK2,solved,51
+case1354pegaselimit,S5 strong K,richardson + RK4,solved,92
+case1354pegaselimit,S5 strong K,OM + richardson,solved,11
+case1354pegaselimit,S5 strong K,BE-chord,solved,12
+case1354pegaselimit,S5 strong K,RK4,failed,15
+case1354pegaselimit,S5 strong K,scaled homotopy,solved,12
+case1354pegaselimit,S5 strong K,newton homotopy,solved,12
+case2383wplimit,S1 paper,paper,solved,10
+case2383wplimit,S1 paper,adaptive,solved,10
+case2383wplimit,S1 paper,PC,solved,11
+case2383wplimit,S1 paper,PC + adaptive,solved,19
+case2383wplimit,S1 paper,OM,solved,9
+case2383wplimit,S1 paper,OM + adaptive,solved,9
+case2383wplimit,S1 paper,OM + PC,solved,10
+case2383wplimit,S1 paper,OM + PC + adaptive,solved,18
+case2383wplimit,S1 paper,richardson,solved,11
+case2383wplimit,S1 paper,richardson + FE,solved,40
+case2383wplimit,S1 paper,richardson + RK2,solved,54
+case2383wplimit,S1 paper,richardson + RK4,solved,78
+case2383wplimit,S1 paper,OM + richardson,solved,10
+case2383wplimit,S1 paper,BE-chord,solved,11
+case2383wplimit,S1 paper,RK4,failed,15
+case2383wplimit,S1 paper,scaled homotopy,solved,10
+case2383wplimit,S1 paper,newton homotopy,solved,11
+case2383wplimit,S2 Sec 4.4,paper,solved,10
+case2383wplimit,S2 Sec 4.4,adaptive,solved,10
+case2383wplimit,S2 Sec 4.4,PC,solved,11
+case2383wplimit,S2 Sec 4.4,PC + adaptive,solved,14
+case2383wplimit,S2 Sec 4.4,OM,solved,9
+case2383wplimit,S2 Sec 4.4,OM + adaptive,solved,9
+case2383wplimit,S2 Sec 4.4,OM + PC,solved,10
+case2383wplimit,S2 Sec 4.4,OM + PC + adaptive,solved,13
+case2383wplimit,S2 Sec 4.4,richardson,solved,12
+case2383wplimit,S2 Sec 4.4,richardson + FE,solved,29
+case2383wplimit,S2 Sec 4.4,richardson + RK2,solved,38
+case2383wplimit,S2 Sec 4.4,richardson + RK4,solved,44
+case2383wplimit,S2 Sec 4.4,OM + richardson,solved,10
+case2383wplimit,S2 Sec 4.4,BE-chord,solved,11
+case2383wplimit,S2 Sec 4.4,RK4,failed,15
+case2383wplimit,S2 Sec 4.4,scaled homotopy,solved,10
+case2383wplimit,S2 Sec 4.4,newton homotopy,solved,11
+case2383wplimit,S3 Sec 4.4,paper,solved,10
+case2383wplimit,S3 Sec 4.4,adaptive,solved,10
+case2383wplimit,S3 Sec 4.4,PC,solved,11
+case2383wplimit,S3 Sec 4.4,PC + adaptive,solved,11
+case2383wplimit,S3 Sec 4.4,OM,solved,9
+case2383wplimit,S3 Sec 4.4,OM + adaptive,solved,9
+case2383wplimit,S3 Sec 4.4,OM + PC,solved,10
+case2383wplimit,S3 Sec 4.4,OM + PC + adaptive,solved,10
+case2383wplimit,S3 Sec 4.4,richardson,solved,12
+case2383wplimit,S3 Sec 4.4,richardson + FE,solved,26
+case2383wplimit,S3 Sec 4.4,richardson + RK2,other root,38
+case2383wplimit,S3 Sec 4.4,richardson + RK4,solved,19
+case2383wplimit,S3 Sec 4.4,OM + richardson,solved,10
+case2383wplimit,S3 Sec 4.4,BE-chord,solved,11
+case2383wplimit,S3 Sec 4.4,RK4,failed,15
+case2383wplimit,S3 Sec 4.4,scaled homotopy,solved,11
+case2383wplimit,S3 Sec 4.4,newton homotopy,solved,11
+case2383wplimit,S4 weak K,paper,solved,10
+case2383wplimit,S4 weak K,adaptive,solved,10
+case2383wplimit,S4 weak K,PC,solved,10
+case2383wplimit,S4 weak K,PC + adaptive,solved,10
+case2383wplimit,S4 weak K,OM,solved,9
+case2383wplimit,S4 weak K,OM + adaptive,solved,9
+case2383wplimit,S4 weak K,OM + PC,solved,9
+case2383wplimit,S4 weak K,OM + PC + adaptive,solved,9
+case2383wplimit,S4 weak K,richardson,solved,11
+case2383wplimit,S4 weak K,richardson + FE,solved,34
+case2383wplimit,S4 weak K,richardson + RK2,solved,48
+case2383wplimit,S4 weak K,richardson + RK4,solved,90
+case2383wplimit,S4 weak K,OM + richardson,solved,10
+case2383wplimit,S4 weak K,BE-chord,solved,11
+case2383wplimit,S4 weak K,RK4,failed,15
+case2383wplimit,S4 weak K,scaled homotopy,solved,10
+case2383wplimit,S4 weak K,newton homotopy,solved,11
+case2383wplimit,S5 strong K,paper,solved,11
+case2383wplimit,S5 strong K,adaptive,failed,8
+case2383wplimit,S5 strong K,PC,solved,12
+case2383wplimit,S5 strong K,PC + adaptive,solved,59
+case2383wplimit,S5 strong K,OM,solved,9
+case2383wplimit,S5 strong K,OM + adaptive,failed,8
+case2383wplimit,S5 strong K,OM + PC,solved,10
+case2383wplimit,S5 strong K,OM + PC + adaptive,solved,59
+case2383wplimit,S5 strong K,richardson,solved,12
+case2383wplimit,S5 strong K,richardson + FE,solved,37
+case2383wplimit,S5 strong K,richardson + RK2,solved,43
+case2383wplimit,S5 strong K,richardson + RK4,solved,78
+case2383wplimit,S5 strong K,OM + richardson,solved,10
+case2383wplimit,S5 strong K,BE-chord,solved,11
+case2383wplimit,S5 strong K,RK4,failed,15
+case2383wplimit,S5 strong K,scaled homotopy,solved,11
+case2383wplimit,S5 strong K,newton homotopy,solved,11
+case2736splimit,S1 paper,paper,failed,12
+case2736splimit,S1 paper,adaptive,failed,12
+case2736splimit,S1 paper,PC,solved,13
+case2736splimit,S1 paper,PC + adaptive,solved,13
+case2736splimit,S1 paper,OM,solved,11
+case2736splimit,S1 paper,OM + adaptive,solved,11
+case2736splimit,S1 paper,OM + PC,solved,9
+case2736splimit,S1 paper,OM + PC + adaptive,solved,9
+case2736splimit,S1 paper,richardson,solved,14
+case2736splimit,S1 paper,richardson + FE,solved,45
+case2736splimit,S1 paper,richardson + RK2,solved,51
+case2736splimit,S1 paper,richardson + RK4,solved,105
+case2736splimit,S1 paper,OM + richardson,solved,12
+case2736splimit,S1 paper,BE-chord,failed,12
+case2736splimit,S1 paper,RK4,failed,15
+case2736splimit,S1 paper,scaled homotopy,failed,12
+case2736splimit,S1 paper,newton homotopy,failed,12
+case2736splimit,S2 Sec 4.4,paper,failed,12
+case2736splimit,S2 Sec 4.4,adaptive,failed,12
+case2736splimit,S2 Sec 4.4,PC,solved,13
+case2736splimit,S2 Sec 4.4,PC + adaptive,solved,13
+case2736splimit,S2 Sec 4.4,OM,solved,11
+case2736splimit,S2 Sec 4.4,OM + adaptive,solved,11
+case2736splimit,S2 Sec 4.4,OM + PC,solved,10
+case2736splimit,S2 Sec 4.4,OM + PC + adaptive,solved,10
+case2736splimit,S2 Sec 4.4,richardson,solved,14
+case2736splimit,S2 Sec 4.4,richardson + FE,solved,35
+case2736splimit,S2 Sec 4.4,richardson + RK2,solved,35
+case2736splimit,S2 Sec 4.4,richardson + RK4,solved,59
+case2736splimit,S2 Sec 4.4,OM + richardson,solved,11
+case2736splimit,S2 Sec 4.4,BE-chord,failed,12
+case2736splimit,S2 Sec 4.4,RK4,failed,15
+case2736splimit,S2 Sec 4.4,scaled homotopy,failed,12
+case2736splimit,S2 Sec 4.4,newton homotopy,failed,12
+case2736splimit,S3 Sec 4.4,paper,failed,12
+case2736splimit,S3 Sec 4.4,adaptive,failed,12
+case2736splimit,S3 Sec 4.4,PC,solved,13
+case2736splimit,S3 Sec 4.4,PC + adaptive,solved,13
+case2736splimit,S3 Sec 4.4,OM,solved,11
+case2736splimit,S3 Sec 4.4,OM + adaptive,solved,11
+case2736splimit,S3 Sec 4.4,OM + PC,solved,10
+case2736splimit,S3 Sec 4.4,OM + PC + adaptive,solved,10
+case2736splimit,S3 Sec 4.4,richardson,failed,14
+case2736splimit,S3 Sec 4.4,richardson + FE,solved,32
+case2736splimit,S3 Sec 4.4,richardson + RK2,solved,35
+case2736splimit,S3 Sec 4.4,richardson + RK4,solved,47
+case2736splimit,S3 Sec 4.4,OM + richardson,solved,11
+case2736splimit,S3 Sec 4.4,BE-chord,failed,12
+case2736splimit,S3 Sec 4.4,RK4,failed,15
+case2736splimit,S3 Sec 4.4,scaled homotopy,failed,12
+case2736splimit,S3 Sec 4.4,newton homotopy,failed,12
+case2736splimit,S4 weak K,paper,failed,12
+case2736splimit,S4 weak K,adaptive,failed,12
+case2736splimit,S4 weak K,PC,solved,13
+case2736splimit,S4 weak K,PC + adaptive,solved,13
+case2736splimit,S4 weak K,OM,solved,11
+case2736splimit,S4 weak K,OM + adaptive,solved,11
+case2736splimit,S4 weak K,OM + PC,solved,10
+case2736splimit,S4 weak K,OM + PC + adaptive,solved,10
+case2736splimit,S4 weak K,richardson,solved,14
+case2736splimit,S4 weak K,richardson + FE,solved,48
+case2736splimit,S4 weak K,richardson + RK2,solved,57
+case2736splimit,S4 weak K,richardson + RK4,solved,105
+case2736splimit,S4 weak K,OM + richardson,solved,12
+case2736splimit,S4 weak K,BE-chord,failed,12
+case2736splimit,S4 weak K,RK4,failed,15
+case2736splimit,S4 weak K,scaled homotopy,failed,12
+case2736splimit,S4 weak K,newton homotopy,failed,12
+case2736splimit,S5 strong K,paper,failed,12
+case2736splimit,S5 strong K,adaptive,failed,12
+case2736splimit,S5 strong K,PC,solved,14
+case2736splimit,S5 strong K,PC + adaptive,solved,71
+case2736splimit,S5 strong K,OM,solved,11
+case2736splimit,S5 strong K,OM + adaptive,solved,11
+case2736splimit,S5 strong K,OM + PC,solved,12
+case2736splimit,S5 strong K,OM + PC + adaptive,solved,71
+case2736splimit,S5 strong K,richardson,solved,14
+case2736splimit,S5 strong K,richardson + FE,solved,43
+case2736splimit,S5 strong K,richardson + RK2,solved,57
+case2736splimit,S5 strong K,richardson + RK4,solved,81
+case2736splimit,S5 strong K,OM + richardson,solved,12
+case2736splimit,S5 strong K,BE-chord,failed,12
+case2736splimit,S5 strong K,RK4,failed,15
+case2736splimit,S5 strong K,scaled homotopy,failed,12
+case2736splimit,S5 strong K,newton homotopy,failed,12
+case2737soplimit,S1 paper,paper,solved,12
+case2737soplimit,S1 paper,adaptive,solved,12
+case2737soplimit,S1 paper,PC,solved,12
+case2737soplimit,S1 paper,PC + adaptive,solved,12
+case2737soplimit,S1 paper,OM,solved,10
+case2737soplimit,S1 paper,OM + adaptive,solved,10
+case2737soplimit,S1 paper,OM + PC,solved,10
+case2737soplimit,S1 paper,OM + PC + adaptive,solved,10
+case2737soplimit,S1 paper,richardson,solved,13
+case2737soplimit,S1 paper,richardson + FE,solved,47
+case2737soplimit,S1 paper,richardson + RK2,solved,62
+case2737soplimit,S1 paper,richardson + RK4,solved,92
+case2737soplimit,S1 paper,OM + richardson,solved,11
+case2737soplimit,S1 paper,BE-chord,failed,12
+case2737soplimit,S1 paper,RK4,failed,15
+case2737soplimit,S1 paper,scaled homotopy,solved,12
+case2737soplimit,S1 paper,newton homotopy,failed,12
+case2737soplimit,S2 Sec 4.4,paper,solved,12
+case2737soplimit,S2 Sec 4.4,adaptive,solved,12
+case2737soplimit,S2 Sec 4.4,PC,solved,12
+case2737soplimit,S2 Sec 4.4,PC + adaptive,solved,12
+case2737soplimit,S2 Sec 4.4,OM,solved,10
+case2737soplimit,S2 Sec 4.4,OM + adaptive,solved,10
+case2737soplimit,S2 Sec 4.4,OM + PC,solved,10
+case2737soplimit,S2 Sec 4.4,OM + PC + adaptive,solved,10
+case2737soplimit,S2 Sec 4.4,richardson,solved,13
+case2737soplimit,S2 Sec 4.4,richardson + FE,solved,34
+case2737soplimit,S2 Sec 4.4,richardson + RK2,solved,33
+case2737soplimit,S2 Sec 4.4,richardson + RK4,solved,57
+case2737soplimit,S2 Sec 4.4,OM + richardson,solved,10
+case2737soplimit,S2 Sec 4.4,BE-chord,failed,12
+case2737soplimit,S2 Sec 4.4,RK4,failed,15
+case2737soplimit,S2 Sec 4.4,scaled homotopy,solved,12
+case2737soplimit,S2 Sec 4.4,newton homotopy,failed,12
+case2737soplimit,S3 Sec 4.4,paper,solved,12
+case2737soplimit,S3 Sec 4.4,adaptive,solved,12
+case2737soplimit,S3 Sec 4.4,PC,solved,12
+case2737soplimit,S3 Sec 4.4,PC + adaptive,solved,12
+case2737soplimit,S3 Sec 4.4,OM,solved,10
+case2737soplimit,S3 Sec 4.4,OM + adaptive,solved,10
+case2737soplimit,S3 Sec 4.4,OM + PC,solved,10
+case2737soplimit,S3 Sec 4.4,OM + PC + adaptive,solved,10
+case2737soplimit,S3 Sec 4.4,richardson,solved,13
+case2737soplimit,S3 Sec 4.4,richardson + FE,solved,28
+case2737soplimit,S3 Sec 4.4,richardson + RK2,solved,34
+case2737soplimit,S3 Sec 4.4,richardson + RK4,solved,46
+case2737soplimit,S3 Sec 4.4,OM + richardson,solved,11
+case2737soplimit,S3 Sec 4.4,BE-chord,failed,12
+case2737soplimit,S3 Sec 4.4,RK4,failed,15
+case2737soplimit,S3 Sec 4.4,scaled homotopy,solved,12
+case2737soplimit,S3 Sec 4.4,newton homotopy,failed,12
+case2737soplimit,S4 weak K,paper,solved,12
+case2737soplimit,S4 weak K,adaptive,solved,12
+case2737soplimit,S4 weak K,PC,solved,12
+case2737soplimit,S4 weak K,PC + adaptive,solved,12
+case2737soplimit,S4 weak K,OM,solved,10
+case2737soplimit,S4 weak K,OM + adaptive,solved,10
+case2737soplimit,S4 weak K,OM + PC,solved,10
+case2737soplimit,S4 weak K,OM + PC + adaptive,solved,10
+case2737soplimit,S4 weak K,richardson,solved,13
+case2737soplimit,S4 weak K,richardson + FE,solved,47
+case2737soplimit,S4 weak K,richardson + RK2,solved,62
+case2737soplimit,S4 weak K,richardson + RK4,solved,128
+case2737soplimit,S4 weak K,OM + richardson,solved,11
+case2737soplimit,S4 weak K,BE-chord,failed,12
+case2737soplimit,S4 weak K,RK4,failed,15
+case2737soplimit,S4 weak K,scaled homotopy,solved,12
+case2737soplimit,S4 weak K,newton homotopy,failed,12
+case2737soplimit,S5 strong K,paper,solved,12
+case2737soplimit,S5 strong K,adaptive,solved,12
+case2737soplimit,S5 strong K,PC,solved,13
+case2737soplimit,S5 strong K,PC + adaptive,solved,59
+case2737soplimit,S5 strong K,OM,solved,10
+case2737soplimit,S5 strong K,OM + adaptive,solved,10
+case2737soplimit,S5 strong K,OM + PC,solved,11
+case2737soplimit,S5 strong K,OM + PC + adaptive,solved,59
+case2737soplimit,S5 strong K,richardson,solved,13
+case2737soplimit,S5 strong K,richardson + FE,solved,41
+case2737soplimit,S5 strong K,richardson + RK2,solved,56
+case2737soplimit,S5 strong K,richardson + RK4,solved,92
+case2737soplimit,S5 strong K,OM + richardson,solved,11
+case2737soplimit,S5 strong K,BE-chord,solved,12
+case2737soplimit,S5 strong K,RK4,failed,15
+case2737soplimit,S5 strong K,scaled homotopy,solved,12
+case2737soplimit,S5 strong K,newton homotopy,failed,12
+case2746woplimit,S1 paper,paper,solved,12
+case2746woplimit,S1 paper,adaptive,solved,12
+case2746woplimit,S1 paper,PC,solved,12
+case2746woplimit,S1 paper,PC + adaptive,solved,12
+case2746woplimit,S1 paper,OM,solved,10
+case2746woplimit,S1 paper,OM + adaptive,solved,10
+case2746woplimit,S1 paper,OM + PC,solved,10
+case2746woplimit,S1 paper,OM + PC + adaptive,solved,10
+case2746woplimit,S1 paper,richardson,solved,13
+case2746woplimit,S1 paper,richardson + FE,solved,47
+case2746woplimit,S1 paper,richardson + RK2,solved,50
+case2746woplimit,S1 paper,richardson + RK4,solved,92
+case2746woplimit,S1 paper,OM + richardson,solved,11
+case2746woplimit,S1 paper,BE-chord,solved,12
+case2746woplimit,S1 paper,RK4,failed,15
+case2746woplimit,S1 paper,scaled homotopy,solved,12
+case2746woplimit,S1 paper,newton homotopy,failed,12
+case2746woplimit,S2 Sec 4.4,paper,solved,12
+case2746woplimit,S2 Sec 4.4,adaptive,solved,12
+case2746woplimit,S2 Sec 4.4,PC,solved,12
+case2746woplimit,S2 Sec 4.4,PC + adaptive,solved,12
+case2746woplimit,S2 Sec 4.4,OM,solved,10
+case2746woplimit,S2 Sec 4.4,OM + adaptive,solved,10
+case2746woplimit,S2 Sec 4.4,OM + PC,solved,10
+case2746woplimit,S2 Sec 4.4,OM + PC + adaptive,solved,10
+case2746woplimit,S2 Sec 4.4,richardson,solved,13
+case2746woplimit,S2 Sec 4.4,richardson + FE,solved,34
+case2746woplimit,S2 Sec 4.4,richardson + RK2,solved,34
+case2746woplimit,S2 Sec 4.4,richardson + RK4,solved,58
+case2746woplimit,S2 Sec 4.4,OM + richardson,solved,11
+case2746woplimit,S2 Sec 4.4,BE-chord,failed,12
+case2746woplimit,S2 Sec 4.4,RK4,failed,15
+case2746woplimit,S2 Sec 4.4,scaled homotopy,solved,12
+case2746woplimit,S2 Sec 4.4,newton homotopy,failed,12
+case2746woplimit,S3 Sec 4.4,paper,solved,12
+case2746woplimit,S3 Sec 4.4,adaptive,solved,12
+case2746woplimit,S3 Sec 4.4,PC,solved,12
+case2746woplimit,S3 Sec 4.4,PC + adaptive,solved,12
+case2746woplimit,S3 Sec 4.4,OM,solved,10
+case2746woplimit,S3 Sec 4.4,OM + adaptive,solved,10
+case2746woplimit,S3 Sec 4.4,OM + PC,solved,10
+case2746woplimit,S3 Sec 4.4,OM + PC + adaptive,solved,10
+case2746woplimit,S3 Sec 4.4,richardson,solved,13
+case2746woplimit,S3 Sec 4.4,richardson + FE,solved,31
+case2746woplimit,S3 Sec 4.4,richardson + RK2,solved,34
+case2746woplimit,S3 Sec 4.4,richardson + RK4,solved,46
+case2746woplimit,S3 Sec 4.4,OM + richardson,solved,12
+case2746woplimit,S3 Sec 4.4,BE-chord,failed,12
+case2746woplimit,S3 Sec 4.4,RK4,failed,15
+case2746woplimit,S3 Sec 4.4,scaled homotopy,solved,12
+case2746woplimit,S3 Sec 4.4,newton homotopy,failed,12
+case2746woplimit,S4 weak K,paper,solved,12
+case2746woplimit,S4 weak K,adaptive,solved,12
+case2746woplimit,S4 weak K,PC,solved,12
+case2746woplimit,S4 weak K,PC + adaptive,solved,12
+case2746woplimit,S4 weak K,OM,solved,10
+case2746woplimit,S4 weak K,OM + adaptive,solved,10
+case2746woplimit,S4 weak K,OM + PC,solved,10
+case2746woplimit,S4 weak K,OM + PC + adaptive,solved,10
+case2746woplimit,S4 weak K,richardson,solved,13
+case2746woplimit,S4 weak K,richardson + FE,solved,50
+case2746woplimit,S4 weak K,richardson + RK2,solved,56
+case2746woplimit,S4 weak K,richardson + RK4,solved,104
+case2746woplimit,S4 weak K,OM + richardson,solved,11
+case2746woplimit,S4 weak K,BE-chord,failed,12
+case2746woplimit,S4 weak K,RK4,failed,15
+case2746woplimit,S4 weak K,scaled homotopy,solved,12
+case2746woplimit,S4 weak K,newton homotopy,failed,12
+case2746woplimit,S5 strong K,paper,solved,12
+case2746woplimit,S5 strong K,adaptive,solved,12
+case2746woplimit,S5 strong K,PC,solved,13
+case2746woplimit,S5 strong K,PC + adaptive,solved,59
+case2746woplimit,S5 strong K,OM,solved,10
+case2746woplimit,S5 strong K,OM + adaptive,solved,10
+case2746woplimit,S5 strong K,OM + PC,solved,11
+case2746woplimit,S5 strong K,OM + PC + adaptive,solved,59
+case2746woplimit,S5 strong K,richardson,solved,13
+case2746woplimit,S5 strong K,richardson + FE,solved,38
+case2746woplimit,S5 strong K,richardson + RK2,solved,50
+case2746woplimit,S5 strong K,richardson + RK4,solved,80
+case2746woplimit,S5 strong K,OM + richardson,solved,11
+case2746woplimit,S5 strong K,BE-chord,solved,12
+case2746woplimit,S5 strong K,RK4,failed,15
+case2746woplimit,S5 strong K,scaled homotopy,solved,12
+case2746woplimit,S5 strong K,newton homotopy,failed,12
+case2746wplimit,S1 paper,paper,solved,12
+case2746wplimit,S1 paper,adaptive,solved,12
+case2746wplimit,S1 paper,PC,solved,12
+case2746wplimit,S1 paper,PC + adaptive,solved,12
+case2746wplimit,S1 paper,OM,solved,10
+case2746wplimit,S1 paper,OM + adaptive,solved,10
+case2746wplimit,S1 paper,OM + PC,solved,10
+case2746wplimit,S1 paper,OM + PC + adaptive,solved,10
+case2746wplimit,S1 paper,richardson,solved,13
+case2746wplimit,S1 paper,richardson + FE,solved,44
+case2746wplimit,S1 paper,richardson + RK2,solved,56
+case2746wplimit,S1 paper,richardson + RK4,solved,116
+case2746wplimit,S1 paper,OM + richardson,solved,11
+case2746wplimit,S1 paper,BE-chord,failed,12
+case2746wplimit,S1 paper,RK4,failed,15
+case2746wplimit,S1 paper,scaled homotopy,solved,12
+case2746wplimit,S1 paper,newton homotopy,failed,12
+case2746wplimit,S2 Sec 4.4,paper,solved,12
+case2746wplimit,S2 Sec 4.4,adaptive,solved,12
+case2746wplimit,S2 Sec 4.4,PC,solved,12
+case2746wplimit,S2 Sec 4.4,PC + adaptive,solved,12
+case2746wplimit,S2 Sec 4.4,OM,solved,10
+case2746wplimit,S2 Sec 4.4,OM + adaptive,solved,10
+case2746wplimit,S2 Sec 4.4,OM + PC,solved,10
+case2746wplimit,S2 Sec 4.4,OM + PC + adaptive,solved,10
+case2746wplimit,S2 Sec 4.4,richardson,solved,13
+case2746wplimit,S2 Sec 4.4,richardson + FE,solved,34
+case2746wplimit,S2 Sec 4.4,richardson + RK2,solved,52
+case2746wplimit,S2 Sec 4.4,richardson + RK4,solved,58
+case2746wplimit,S2 Sec 4.4,OM + richardson,solved,11
+case2746wplimit,S2 Sec 4.4,BE-chord,failed,12
+case2746wplimit,S2 Sec 4.4,RK4,failed,15
+case2746wplimit,S2 Sec 4.4,scaled homotopy,solved,12
+case2746wplimit,S2 Sec 4.4,newton homotopy,failed,12
+case2746wplimit,S3 Sec 4.4,paper,solved,12
+case2746wplimit,S3 Sec 4.4,adaptive,solved,12
+case2746wplimit,S3 Sec 4.4,PC,solved,12
+case2746wplimit,S3 Sec 4.4,PC + adaptive,solved,12
+case2746wplimit,S3 Sec 4.4,OM,solved,10
+case2746wplimit,S3 Sec 4.4,OM + adaptive,solved,10
+case2746wplimit,S3 Sec 4.4,OM + PC,solved,10
+case2746wplimit,S3 Sec 4.4,OM + PC + adaptive,solved,10
+case2746wplimit,S3 Sec 4.4,richardson,solved,14
+case2746wplimit,S3 Sec 4.4,richardson + FE,solved,31
+case2746wplimit,S3 Sec 4.4,richardson + RK2,solved,34
+case2746wplimit,S3 Sec 4.4,richardson + RK4,solved,46
+case2746wplimit,S3 Sec 4.4,OM + richardson,solved,11
+case2746wplimit,S3 Sec 4.4,BE-chord,failed,12
+case2746wplimit,S3 Sec 4.4,RK4,failed,15
+case2746wplimit,S3 Sec 4.4,scaled homotopy,solved,12
+case2746wplimit,S3 Sec 4.4,newton homotopy,failed,12
+case2746wplimit,S4 weak K,paper,solved,12
+case2746wplimit,S4 weak K,adaptive,solved,12
+case2746wplimit,S4 weak K,PC,solved,12
+case2746wplimit,S4 weak K,PC + adaptive,solved,12
+case2746wplimit,S4 weak K,OM,solved,10
+case2746wplimit,S4 weak K,OM + adaptive,solved,10
+case2746wplimit,S4 weak K,OM + PC,solved,9
+case2746wplimit,S4 weak K,OM + PC + adaptive,solved,9
+case2746wplimit,S4 weak K,richardson,solved,13
+case2746wplimit,S4 weak K,richardson + FE,solved,50
+case2746wplimit,S4 weak K,richardson + RK2,solved,56
+case2746wplimit,S4 weak K,richardson + RK4,solved,92
+case2746wplimit,S4 weak K,OM + richardson,solved,11
+case2746wplimit,S4 weak K,BE-chord,failed,12
+case2746wplimit,S4 weak K,RK4,failed,15
+case2746wplimit,S4 weak K,scaled homotopy,solved,12
+case2746wplimit,S4 weak K,newton homotopy,failed,12
+case2746wplimit,S5 strong K,paper,solved,12
+case2746wplimit,S5 strong K,adaptive,solved,12
+case2746wplimit,S5 strong K,PC,solved,13
+case2746wplimit,S5 strong K,PC + adaptive,solved,59
+case2746wplimit,S5 strong K,OM,solved,10
+case2746wplimit,S5 strong K,OM + adaptive,solved,10
+case2746wplimit,S5 strong K,OM + PC,solved,11
+case2746wplimit,S5 strong K,OM + PC + adaptive,solved,59
+case2746wplimit,S5 strong K,richardson,solved,13
+case2746wplimit,S5 strong K,richardson + FE,solved,39
+case2746wplimit,S5 strong K,richardson + RK2,solved,50
+case2746wplimit,S5 strong K,richardson + RK4,solved,80
+case2746wplimit,S5 strong K,OM + richardson,solved,11
+case2746wplimit,S5 strong K,BE-chord,failed,12
+case2746wplimit,S5 strong K,RK4,failed,15
+case2746wplimit,S5 strong K,scaled homotopy,solved,12
+case2746wplimit,S5 strong K,newton homotopy,failed,12
+case2869pegaselimit,S1 paper,paper,solved,10
+case2869pegaselimit,S1 paper,adaptive,solved,10
+case2869pegaselimit,S1 paper,PC,solved,11
+case2869pegaselimit,S1 paper,PC + adaptive,solved,11
+case2869pegaselimit,S1 paper,OM,solved,9
+case2869pegaselimit,S1 paper,OM + adaptive,solved,9
+case2869pegaselimit,S1 paper,OM + PC,solved,10
+case2869pegaselimit,S1 paper,OM + PC + adaptive,solved,10
+case2869pegaselimit,S1 paper,richardson,solved,11
+case2869pegaselimit,S1 paper,richardson + FE,solved,42
+case2869pegaselimit,S1 paper,richardson + RK2,solved,54
+case2869pegaselimit,S1 paper,richardson + RK4,solved,90
+case2869pegaselimit,S1 paper,OM + richardson,solved,10
+case2869pegaselimit,S1 paper,BE-chord,solved,11
+case2869pegaselimit,S1 paper,RK4,failed,15
+case2869pegaselimit,S1 paper,scaled homotopy,solved,10
+case2869pegaselimit,S1 paper,newton homotopy,solved,11
+case2869pegaselimit,S2 Sec 4.4,paper,solved,10
+case2869pegaselimit,S2 Sec 4.4,adaptive,solved,10
+case2869pegaselimit,S2 Sec 4.4,PC,solved,11
+case2869pegaselimit,S2 Sec 4.4,PC + adaptive,solved,11
+case2869pegaselimit,S2 Sec 4.4,OM,solved,9
+case2869pegaselimit,S2 Sec 4.4,OM + adaptive,solved,9
+case2869pegaselimit,S2 Sec 4.4,OM + PC,solved,10
+case2869pegaselimit,S2 Sec 4.4,OM + PC + adaptive,solved,10
+case2869pegaselimit,S2 Sec 4.4,richardson,solved,11
+case2869pegaselimit,S2 Sec 4.4,richardson + FE,solved,32
+case2869pegaselimit,S2 Sec 4.4,richardson + RK2,solved,38
+case2869pegaselimit,S2 Sec 4.4,richardson + RK4,solved,55
+case2869pegaselimit,S2 Sec 4.4,OM + richardson,solved,10
+case2869pegaselimit,S2 Sec 4.4,BE-chord,solved,11
+case2869pegaselimit,S2 Sec 4.4,RK4,failed,15
+case2869pegaselimit,S2 Sec 4.4,scaled homotopy,solved,10
+case2869pegaselimit,S2 Sec 4.4,newton homotopy,solved,11
+case2869pegaselimit,S3 Sec 4.4,paper,solved,10
+case2869pegaselimit,S3 Sec 4.4,adaptive,solved,10
+case2869pegaselimit,S3 Sec 4.4,PC,solved,11
+case2869pegaselimit,S3 Sec 4.4,PC + adaptive,solved,11
+case2869pegaselimit,S3 Sec 4.4,OM,solved,9
+case2869pegaselimit,S3 Sec 4.4,OM + adaptive,solved,9
+case2869pegaselimit,S3 Sec 4.4,OM + PC,solved,10
+case2869pegaselimit,S3 Sec 4.4,OM + PC + adaptive,solved,10
+case2869pegaselimit,S3 Sec 4.4,richardson,solved,11
+case2869pegaselimit,S3 Sec 4.4,richardson + FE,solved,26
+case2869pegaselimit,S3 Sec 4.4,richardson + RK2,solved,32
+case2869pegaselimit,S3 Sec 4.4,richardson + RK4,solved,44
+case2869pegaselimit,S3 Sec 4.4,OM + richardson,solved,10
+case2869pegaselimit,S3 Sec 4.4,BE-chord,solved,11
+case2869pegaselimit,S3 Sec 4.4,RK4,failed,15
+case2869pegaselimit,S3 Sec 4.4,scaled homotopy,solved,10
+case2869pegaselimit,S3 Sec 4.4,newton homotopy,solved,11
+case2869pegaselimit,S4 weak K,paper,solved,10
+case2869pegaselimit,S4 weak K,adaptive,solved,10
+case2869pegaselimit,S4 weak K,PC,solved,10
+case2869pegaselimit,S4 weak K,PC + adaptive,solved,10
+case2869pegaselimit,S4 weak K,OM,solved,9
+case2869pegaselimit,S4 weak K,OM + adaptive,solved,9
+case2869pegaselimit,S4 weak K,OM + PC,solved,9
+case2869pegaselimit,S4 weak K,OM + PC + adaptive,solved,9
+case2869pegaselimit,S4 weak K,richardson,solved,11
+case2869pegaselimit,S4 weak K,richardson + FE,solved,48
+case2869pegaselimit,S4 weak K,richardson + RK2,solved,48
+case2869pegaselimit,S4 weak K,richardson + RK4,solved,102
+case2869pegaselimit,S4 weak K,OM + richardson,solved,10
+case2869pegaselimit,S4 weak K,BE-chord,solved,11
+case2869pegaselimit,S4 weak K,RK4,failed,15
+case2869pegaselimit,S4 weak K,scaled homotopy,solved,10
+case2869pegaselimit,S4 weak K,newton homotopy,solved,11
+case2869pegaselimit,S5 strong K,paper,solved,10
+case2869pegaselimit,S5 strong K,adaptive,solved,10
+case2869pegaselimit,S5 strong K,PC,solved,11
+case2869pegaselimit,S5 strong K,PC + adaptive,solved,47
+case2869pegaselimit,S5 strong K,OM,solved,9
+case2869pegaselimit,S5 strong K,OM + adaptive,solved,9
+case2869pegaselimit,S5 strong K,OM + PC,solved,10
+case2869pegaselimit,S5 strong K,OM + PC + adaptive,solved,47
+case2869pegaselimit,S5 strong K,richardson,solved,17
+case2869pegaselimit,S5 strong K,richardson + FE,solved,42
+case2869pegaselimit,S5 strong K,richardson + RK2,solved,49
+case2869pegaselimit,S5 strong K,richardson + RK4,solved,78
+case2869pegaselimit,S5 strong K,OM + richardson,solved,16
+case2869pegaselimit,S5 strong K,BE-chord,solved,11
+case2869pegaselimit,S5 strong K,RK4,failed,15
+case2869pegaselimit,S5 strong K,scaled homotopy,solved,10
+case2869pegaselimit,S5 strong K,newton homotopy,solved,11
+case3012wplimit,S1 paper,paper,other root,12
+case3012wplimit,S1 paper,adaptive,solved,19
+case3012wplimit,S1 paper,PC,solved,11
+case3012wplimit,S1 paper,PC + adaptive,solved,11
+case3012wplimit,S1 paper,OM,other root,11
+case3012wplimit,S1 paper,OM + adaptive,solved,18
+case3012wplimit,S1 paper,OM + PC,solved,10
+case3012wplimit,S1 paper,OM + PC + adaptive,solved,10
+case3012wplimit,S1 paper,richardson,other root,13
+case3012wplimit,S1 paper,richardson + FE,solved,53
+case3012wplimit,S1 paper,richardson + RK2,solved,56
+case3012wplimit,S1 paper,richardson + RK4,solved,116
+case3012wplimit,S1 paper,OM + richardson,other root,12
+case3012wplimit,S1 paper,BE-chord,failed,12
+case3012wplimit,S1 paper,RK4,failed,15
+case3012wplimit,S1 paper,scaled homotopy,other root,12
+case3012wplimit,S1 paper,newton homotopy,failed,12
+case3012wplimit,S2 Sec 4.4,paper,other root,12
+case3012wplimit,S2 Sec 4.4,adaptive,solved,14
+case3012wplimit,S2 Sec 4.4,PC,solved,11
+case3012wplimit,S2 Sec 4.4,PC + adaptive,solved,11
+case3012wplimit,S2 Sec 4.4,OM,other root,11
+case3012wplimit,S2 Sec 4.4,OM + adaptive,solved,13
+case3012wplimit,S2 Sec 4.4,OM + PC,solved,10
+case3012wplimit,S2 Sec 4.4,OM + PC + adaptive,solved,10
+case3012wplimit,S2 Sec 4.4,richardson,solved,45
+case3012wplimit,S2 Sec 4.4,richardson + FE,solved,40
+case3012wplimit,S2 Sec 4.4,richardson + RK2,solved,33
+case3012wplimit,S2 Sec 4.4,richardson + RK4,solved,58
+case3012wplimit,S2 Sec 4.4,OM + richardson,solved,44
+case3012wplimit,S2 Sec 4.4,BE-chord,solved,12
+case3012wplimit,S2 Sec 4.4,RK4,failed,15
+case3012wplimit,S2 Sec 4.4,scaled homotopy,failed,12
+case3012wplimit,S2 Sec 4.4,newton homotopy,failed,12
+case3012wplimit,S3 Sec 4.4,paper,failed,12
+case3012wplimit,S3 Sec 4.4,adaptive,solved,13
+case3012wplimit,S3 Sec 4.4,PC,solved,11
+case3012wplimit,S3 Sec 4.4,PC + adaptive,solved,11
+case3012wplimit,S3 Sec 4.4,OM,other root,11
+case3012wplimit,S3 Sec 4.4,OM + adaptive,solved,12
+case3012wplimit,S3 Sec 4.4,OM + PC,solved,10
+case3012wplimit,S3 Sec 4.4,OM + PC + adaptive,solved,10
+case3012wplimit,S3 Sec 4.4,richardson,solved,37
+case3012wplimit,S3 Sec 4.4,richardson + FE,solved,34
+case3012wplimit,S3 Sec 4.4,richardson + RK2,solved,34
+case3012wplimit,S3 Sec 4.4,richardson + RK4,solved,46
+case3012wplimit,S3 Sec 4.4,OM + richardson,solved,35
+case3012wplimit,S3 Sec 4.4,BE-chord,solved,12
+case3012wplimit,S3 Sec 4.4,RK4,failed,15
+case3012wplimit,S3 Sec 4.4,scaled homotopy,failed,12
+case3012wplimit,S3 Sec 4.4,newton homotopy,failed,12
+case3012wplimit,S4 weak K,paper,failed,12
+case3012wplimit,S4 weak K,adaptive,failed,15
+case3012wplimit,S4 weak K,PC,failed,14
+case3012wplimit,S4 weak K,PC + adaptive,failed,16
+case3012wplimit,S4 weak K,OM,failed,12
+case3012wplimit,S4 weak K,OM + adaptive,failed,15
+case3012wplimit,S4 weak K,OM + PC,failed,14
+case3012wplimit,S4 weak K,OM + PC + adaptive,failed,16
+case3012wplimit,S4 weak K,richardson,failed,151
+case3012wplimit,S4 weak K,richardson + FE,failed,119
+case3012wplimit,S4 weak K,richardson + RK2,failed,151
+case3012wplimit,S4 weak K,richardson + RK4,failed,157
+case3012wplimit,S4 weak K,OM + richardson,failed,151
+case3012wplimit,S4 weak K,BE-chord,failed,12
+case3012wplimit,S4 weak K,RK4,failed,15
+case3012wplimit,S4 weak K,scaled homotopy,failed,12
+case3012wplimit,S4 weak K,newton homotopy,failed,12
+case3012wplimit,S5 strong K,paper,solved,11
+case3012wplimit,S5 strong K,adaptive,solved,11
+case3012wplimit,S5 strong K,PC,solved,12
+case3012wplimit,S5 strong K,PC + adaptive,solved,12
+case3012wplimit,S5 strong K,OM,solved,9
+case3012wplimit,S5 strong K,OM + adaptive,solved,9
+case3012wplimit,S5 strong K,OM + PC,solved,9
+case3012wplimit,S5 strong K,OM + PC + adaptive,solved,9
+case3012wplimit,S5 strong K,richardson,solved,12
+case3012wplimit,S5 strong K,richardson + FE,solved,44
+case3012wplimit,S5 strong K,richardson + RK2,solved,56
+case3012wplimit,S5 strong K,richardson + RK4,solved,92
+case3012wplimit,S5 strong K,OM + richardson,solved,10
+case3012wplimit,S5 strong K,BE-chord,solved,12
+case3012wplimit,S5 strong K,RK4,failed,15
+case3012wplimit,S5 strong K,scaled homotopy,solved,11
+case3012wplimit,S5 strong K,newton homotopy,failed,12
+case3120splimit,S1 paper,paper,solved,12
+case3120splimit,S1 paper,adaptive,solved,12
+case3120splimit,S1 paper,PC,solved,12
+case3120splimit,S1 paper,PC + adaptive,solved,12
+case3120splimit,S1 paper,OM,solved,10
+case3120splimit,S1 paper,OM + adaptive,solved,10
+case3120splimit,S1 paper,OM + PC,solved,10
+case3120splimit,S1 paper,OM + PC + adaptive,solved,10
+case3120splimit,S1 paper,richardson,solved,13
+case3120splimit,S1 paper,richardson + FE,solved,47
+case3120splimit,S1 paper,richardson + RK2,solved,56
+case3120splimit,S1 paper,richardson + RK4,solved,92
+case3120splimit,S1 paper,OM + richardson,solved,10
+case3120splimit,S1 paper,BE-chord,failed,12
+case3120splimit,S1 paper,RK4,failed,15
+case3120splimit,S1 paper,scaled homotopy,solved,12
+case3120splimit,S1 paper,newton homotopy,failed,12
+case3120splimit,S2 Sec 4.4,paper,solved,12
+case3120splimit,S2 Sec 4.4,adaptive,solved,12
+case3120splimit,S2 Sec 4.4,PC,solved,12
+case3120splimit,S2 Sec 4.4,PC + adaptive,solved,12
+case3120splimit,S2 Sec 4.4,OM,solved,10
+case3120splimit,S2 Sec 4.4,OM + adaptive,solved,10
+case3120splimit,S2 Sec 4.4,OM + PC,solved,10
+case3120splimit,S2 Sec 4.4,OM + PC + adaptive,solved,10
+case3120splimit,S2 Sec 4.4,richardson,solved,13
+case3120splimit,S2 Sec 4.4,richardson + FE,solved,37
+case3120splimit,S2 Sec 4.4,richardson + RK2,solved,34
+case3120splimit,S2 Sec 4.4,richardson + RK4,solved,58
+case3120splimit,S2 Sec 4.4,OM + richardson,solved,10
+case3120splimit,S2 Sec 4.4,BE-chord,failed,12
+case3120splimit,S2 Sec 4.4,RK4,failed,15
+case3120splimit,S2 Sec 4.4,scaled homotopy,solved,12
+case3120splimit,S2 Sec 4.4,newton homotopy,failed,12
+case3120splimit,S3 Sec 4.4,paper,solved,12
+case3120splimit,S3 Sec 4.4,adaptive,solved,12
+case3120splimit,S3 Sec 4.4,PC,solved,12
+case3120splimit,S3 Sec 4.4,PC + adaptive,solved,12
+case3120splimit,S3 Sec 4.4,OM,solved,10
+case3120splimit,S3 Sec 4.4,OM + adaptive,solved,10
+case3120splimit,S3 Sec 4.4,OM + PC,solved,10
+case3120splimit,S3 Sec 4.4,OM + PC + adaptive,solved,10
+case3120splimit,S3 Sec 4.4,richardson,solved,14
+case3120splimit,S3 Sec 4.4,richardson + FE,solved,28
+case3120splimit,S3 Sec 4.4,richardson + RK2,solved,34
+case3120splimit,S3 Sec 4.4,richardson + RK4,solved,46
+case3120splimit,S3 Sec 4.4,OM + richardson,solved,11
+case3120splimit,S3 Sec 4.4,BE-chord,failed,12
+case3120splimit,S3 Sec 4.4,RK4,failed,15
+case3120splimit,S3 Sec 4.4,scaled homotopy,solved,12
+case3120splimit,S3 Sec 4.4,newton homotopy,failed,12
+case3120splimit,S4 weak K,paper,solved,12
+case3120splimit,S4 weak K,adaptive,solved,12
+case3120splimit,S4 weak K,PC,solved,12
+case3120splimit,S4 weak K,PC + adaptive,solved,12
+case3120splimit,S4 weak K,OM,solved,10
+case3120splimit,S4 weak K,OM + adaptive,solved,10
+case3120splimit,S4 weak K,OM + PC,solved,10
+case3120splimit,S4 weak K,OM + PC + adaptive,solved,10
+case3120splimit,S4 weak K,richardson,solved,13
+case3120splimit,S4 weak K,richardson + FE,solved,47
+case3120splimit,S4 weak K,richardson + RK2,solved,56
+case3120splimit,S4 weak K,richardson + RK4,solved,104
+case3120splimit,S4 weak K,OM + richardson,solved,11
+case3120splimit,S4 weak K,BE-chord,failed,12
+case3120splimit,S4 weak K,RK4,failed,15
+case3120splimit,S4 weak K,scaled homotopy,solved,12
+case3120splimit,S4 weak K,newton homotopy,failed,12
+case3120splimit,S5 strong K,paper,solved,12
+case3120splimit,S5 strong K,adaptive,solved,12
+case3120splimit,S5 strong K,PC,solved,13
+case3120splimit,S5 strong K,PC + adaptive,solved,22
+case3120splimit,S5 strong K,OM,solved,10
+case3120splimit,S5 strong K,OM + adaptive,solved,10
+case3120splimit,S5 strong K,OM + PC,solved,10
+case3120splimit,S5 strong K,OM + PC + adaptive,solved,20
+case3120splimit,S5 strong K,richardson,solved,13
+case3120splimit,S5 strong K,richardson + FE,solved,45
+case3120splimit,S5 strong K,richardson + RK2,solved,51
+case3120splimit,S5 strong K,richardson + RK4,solved,80
+case3120splimit,S5 strong K,OM + richardson,solved,11
+case3120splimit,S5 strong K,BE-chord,failed,12
+case3120splimit,S5 strong K,RK4,failed,15
+case3120splimit,S5 strong K,scaled homotopy,solved,12
+case3120splimit,S5 strong K,newton homotopy,failed,12
+case3375wplimit,S1 paper,paper,other root,12
+case3375wplimit,S1 paper,adaptive,other root,12
+case3375wplimit,S1 paper,PC,solved,11
+case3375wplimit,S1 paper,PC + adaptive,solved,11
+case3375wplimit,S1 paper,OM,other root,10
+case3375wplimit,S1 paper,OM + adaptive,other root,10
+case3375wplimit,S1 paper,OM + PC,solved,9
+case3375wplimit,S1 paper,OM + PC + adaptive,solved,9
+case3375wplimit,S1 paper,richardson,other root,13
+case3375wplimit,S1 paper,richardson + FE,solved,53
+case3375wplimit,S1 paper,richardson + RK2,solved,50
+case3375wplimit,S1 paper,richardson + RK4,solved,91
+case3375wplimit,S1 paper,OM + richardson,other root,12
+case3375wplimit,S1 paper,BE-chord,solved,12
+case3375wplimit,S1 paper,RK4,failed,15
+case3375wplimit,S1 paper,scaled homotopy,other root,12
+case3375wplimit,S1 paper,newton homotopy,failed,12
+case3375wplimit,S2 Sec 4.4,paper,other root,12
+case3375wplimit,S2 Sec 4.4,adaptive,other root,12
+case3375wplimit,S2 Sec 4.4,PC,solved,11
+case3375wplimit,S2 Sec 4.4,PC + adaptive,solved,11
+case3375wplimit,S2 Sec 4.4,OM,other root,11
+case3375wplimit,S2 Sec 4.4,OM + adaptive,other root,11
+case3375wplimit,S2 Sec 4.4,OM + PC,solved,10
+case3375wplimit,S2 Sec 4.4,OM + PC + adaptive,solved,10
+case3375wplimit,S2 Sec 4.4,richardson,solved,45
+case3375wplimit,S2 Sec 4.4,richardson + FE,solved,39
+case3375wplimit,S2 Sec 4.4,richardson + RK2,solved,40
+case3375wplimit,S2 Sec 4.4,richardson + RK4,solved,57
+case3375wplimit,S2 Sec 4.4,OM + richardson,solved,44
+case3375wplimit,S2 Sec 4.4,BE-chord,solved,12
+case3375wplimit,S2 Sec 4.4,RK4,failed,15
+case3375wplimit,S2 Sec 4.4,scaled homotopy,failed,12
+case3375wplimit,S2 Sec 4.4,newton homotopy,failed,12
+case3375wplimit,S3 Sec 4.4,paper,other root,12
+case3375wplimit,S3 Sec 4.4,adaptive,other root,12
+case3375wplimit,S3 Sec 4.4,PC,solved,11
+case3375wplimit,S3 Sec 4.4,PC + adaptive,solved,11
+case3375wplimit,S3 Sec 4.4,OM,other root,11
+case3375wplimit,S3 Sec 4.4,OM + adaptive,other root,11
+case3375wplimit,S3 Sec 4.4,OM + PC,solved,10
+case3375wplimit,S3 Sec 4.4,OM + PC + adaptive,solved,10
+case3375wplimit,S3 Sec 4.4,richardson,solved,37
+case3375wplimit,S3 Sec 4.4,richardson + FE,solved,34
+case3375wplimit,S3 Sec 4.4,richardson + RK2,solved,34
+case3375wplimit,S3 Sec 4.4,richardson + RK4,solved,58
+case3375wplimit,S3 Sec 4.4,OM + richardson,solved,35
+case3375wplimit,S3 Sec 4.4,BE-chord,solved,12
+case3375wplimit,S3 Sec 4.4,RK4,failed,15
+case3375wplimit,S3 Sec 4.4,scaled homotopy,failed,12
+case3375wplimit,S3 Sec 4.4,newton homotopy,failed,12
+case3375wplimit,S4 weak K,paper,failed,12
+case3375wplimit,S4 weak K,adaptive,failed,12
+case3375wplimit,S4 weak K,PC,failed,14
+case3375wplimit,S4 weak K,PC + adaptive,failed,16
+case3375wplimit,S4 weak K,OM,failed,12
+case3375wplimit,S4 weak K,OM + adaptive,failed,12
+case3375wplimit,S4 weak K,OM + PC,failed,14
+case3375wplimit,S4 weak K,OM + PC + adaptive,failed,16
+case3375wplimit,S4 weak K,richardson,failed,137
+case3375wplimit,S4 weak K,richardson + FE,failed,151
+case3375wplimit,S4 weak K,richardson + RK2,failed,149
+case3375wplimit,S4 weak K,richardson + RK4,failed,157
+case3375wplimit,S4 weak K,OM + richardson,failed,137
+case3375wplimit,S4 weak K,BE-chord,failed,12
+case3375wplimit,S4 weak K,RK4,failed,15
+case3375wplimit,S4 weak K,scaled homotopy,failed,12
+case3375wplimit,S4 weak K,newton homotopy,failed,12
+case3375wplimit,S5 strong K,paper,solved,11
+case3375wplimit,S5 strong K,adaptive,solved,11
+case3375wplimit,S5 strong K,PC,solved,11
+case3375wplimit,S5 strong K,PC + adaptive,solved,11
+case3375wplimit,S5 strong K,OM,solved,9
+case3375wplimit,S5 strong K,OM + adaptive,solved,9
+case3375wplimit,S5 strong K,OM + PC,solved,10
+case3375wplimit,S5 strong K,OM + PC + adaptive,solved,10
+case3375wplimit,S5 strong K,richardson,solved,12
+case3375wplimit,S5 strong K,richardson + FE,solved,41
+case3375wplimit,S5 strong K,richardson + RK2,solved,50
+case3375wplimit,S5 strong K,richardson + RK4,solved,92
+case3375wplimit,S5 strong K,OM + richardson,solved,10
+case3375wplimit,S5 strong K,BE-chord,solved,12
+case3375wplimit,S5 strong K,RK4,failed,15
+case3375wplimit,S5 strong K,scaled homotopy,solved,11
+case3375wplimit,S5 strong K,newton homotopy,failed,12
+case9241pegaselimit,S1 paper,paper,solved,11
+case9241pegaselimit,S1 paper,adaptive,solved,11
+case9241pegaselimit,S1 paper,PC,solved,11
+case9241pegaselimit,S1 paper,PC + adaptive,solved,11
+case9241pegaselimit,S1 paper,OM,solved,9
+case9241pegaselimit,S1 paper,OM + adaptive,solved,9
+case9241pegaselimit,S1 paper,OM + PC,solved,10
+case9241pegaselimit,S1 paper,OM + PC + adaptive,solved,10
+case9241pegaselimit,S1 paper,richardson,solved,46
+case9241pegaselimit,S1 paper,richardson + FE,solved,52
+case9241pegaselimit,S1 paper,richardson + RK2,solved,55
+case9241pegaselimit,S1 paper,richardson + RK4,solved,91
+case9241pegaselimit,S1 paper,OM + richardson,solved,45
+case9241pegaselimit,S1 paper,BE-chord,solved,11
+case9241pegaselimit,S1 paper,RK4,failed,15
+case9241pegaselimit,S1 paper,scaled homotopy,solved,11
+case9241pegaselimit,S1 paper,newton homotopy,solved,12
+case9241pegaselimit,S2 Sec 4.4,paper,solved,11
+case9241pegaselimit,S2 Sec 4.4,adaptive,solved,11
+case9241pegaselimit,S2 Sec 4.4,PC,solved,11
+case9241pegaselimit,S2 Sec 4.4,PC + adaptive,solved,11
+case9241pegaselimit,S2 Sec 4.4,OM,solved,9
+case9241pegaselimit,S2 Sec 4.4,OM + adaptive,solved,9
+case9241pegaselimit,S2 Sec 4.4,OM + PC,solved,10
+case9241pegaselimit,S2 Sec 4.4,OM + PC + adaptive,solved,10
+case9241pegaselimit,S2 Sec 4.4,richardson,solved,21
+case9241pegaselimit,S2 Sec 4.4,richardson + FE,solved,38
+case9241pegaselimit,S2 Sec 4.4,richardson + RK2,solved,38
+case9241pegaselimit,S2 Sec 4.4,richardson + RK4,solved,56
+case9241pegaselimit,S2 Sec 4.4,OM + richardson,solved,19
+case9241pegaselimit,S2 Sec 4.4,BE-chord,failed,12
+case9241pegaselimit,S2 Sec 4.4,RK4,failed,15
+case9241pegaselimit,S2 Sec 4.4,scaled homotopy,solved,11
+case9241pegaselimit,S2 Sec 4.4,newton homotopy,solved,12
+case9241pegaselimit,S3 Sec 4.4,paper,solved,11
+case9241pegaselimit,S3 Sec 4.4,adaptive,solved,11
+case9241pegaselimit,S3 Sec 4.4,PC,solved,11
+case9241pegaselimit,S3 Sec 4.4,PC + adaptive,solved,11
+case9241pegaselimit,S3 Sec 4.4,OM,solved,9
+case9241pegaselimit,S3 Sec 4.4,OM + adaptive,solved,9
+case9241pegaselimit,S3 Sec 4.4,OM + PC,solved,10
+case9241pegaselimit,S3 Sec 4.4,OM + PC + adaptive,solved,10
+case9241pegaselimit,S3 Sec 4.4,richardson,solved,18
+case9241pegaselimit,S3 Sec 4.4,richardson + FE,solved,33
+case9241pegaselimit,S3 Sec 4.4,richardson + RK2,solved,33
+case9241pegaselimit,S3 Sec 4.4,richardson + RK4,solved,21
+case9241pegaselimit,S3 Sec 4.4,OM + richardson,solved,17
+case9241pegaselimit,S3 Sec 4.4,BE-chord,failed,12
+case9241pegaselimit,S3 Sec 4.4,RK4,failed,15
+case9241pegaselimit,S3 Sec 4.4,scaled homotopy,solved,11
+case9241pegaselimit,S3 Sec 4.4,newton homotopy,solved,12
+case9241pegaselimit,S4 weak K,paper,solved,11
+case9241pegaselimit,S4 weak K,adaptive,solved,11
+case9241pegaselimit,S4 weak K,PC,solved,11
+case9241pegaselimit,S4 weak K,PC + adaptive,solved,11
+case9241pegaselimit,S4 weak K,OM,solved,9
+case9241pegaselimit,S4 weak K,OM + adaptive,solved,9
+case9241pegaselimit,S4 weak K,OM + PC,solved,9
+case9241pegaselimit,S4 weak K,OM + PC + adaptive,solved,9
+case9241pegaselimit,S4 weak K,richardson,solved,64
+case9241pegaselimit,S4 weak K,richardson + FE,solved,55
+case9241pegaselimit,S4 weak K,richardson + RK2,solved,54
+case9241pegaselimit,S4 weak K,richardson + RK4,solved,103
+case9241pegaselimit,S4 weak K,OM + richardson,solved,64
+case9241pegaselimit,S4 weak K,BE-chord,failed,12
+case9241pegaselimit,S4 weak K,RK4,failed,15
+case9241pegaselimit,S4 weak K,scaled homotopy,solved,11
+case9241pegaselimit,S4 weak K,newton homotopy,solved,12
+case9241pegaselimit,S5 strong K,paper,solved,11
+case9241pegaselimit,S5 strong K,adaptive,solved,11
+case9241pegaselimit,S5 strong K,PC,solved,12
+case9241pegaselimit,S5 strong K,PC + adaptive,solved,18
+case9241pegaselimit,S5 strong K,OM,solved,9
+case9241pegaselimit,S5 strong K,OM + adaptive,solved,9
+case9241pegaselimit,S5 strong K,OM + PC,solved,10
+case9241pegaselimit,S5 strong K,OM + PC + adaptive,solved,16
+case9241pegaselimit,S5 strong K,richardson,solved,20
+case9241pegaselimit,S5 strong K,richardson + FE,solved,49
+case9241pegaselimit,S5 strong K,richardson + RK2,solved,55
+case9241pegaselimit,S5 strong K,richardson + RK4,solved,91
+case9241pegaselimit,S5 strong K,OM + richardson,solved,18
+case9241pegaselimit,S5 strong K,BE-chord,failed,12
+case9241pegaselimit,S5 strong K,RK4,failed,15
+case9241pegaselimit,S5 strong K,scaled homotopy,solved,11
+case9241pegaselimit,S5 strong K,newton homotopy,solved,12
+case13659pegaselimit,S1 paper,paper,solved,8
+case13659pegaselimit,S1 paper,adaptive,solved,8
+case13659pegaselimit,S1 paper,PC,solved,9
+case13659pegaselimit,S1 paper,PC + adaptive,solved,9
+case13659pegaselimit,S1 paper,OM,solved,8
+case13659pegaselimit,S1 paper,OM + adaptive,solved,8
+case13659pegaselimit,S1 paper,OM + PC,solved,8
+case13659pegaselimit,S1 paper,OM + PC + adaptive,solved,8
+case13659pegaselimit,S1 paper,richardson,solved,9
+case13659pegaselimit,S1 paper,richardson + FE,solved,33
+case13659pegaselimit,S1 paper,richardson + RK2,solved,48
+case13659pegaselimit,S1 paper,richardson + RK4,solved,90
+case13659pegaselimit,S1 paper,OM + richardson,solved,9
+case13659pegaselimit,S1 paper,BE-chord,solved,10
+case13659pegaselimit,S1 paper,RK4,failed,15
+case13659pegaselimit,S1 paper,scaled homotopy,solved,8
+case13659pegaselimit,S1 paper,newton homotopy,other root,9
+case13659pegaselimit,S2 Sec 4.4,paper,solved,8
+case13659pegaselimit,S2 Sec 4.4,adaptive,solved,8
+case13659pegaselimit,S2 Sec 4.4,PC,solved,9
+case13659pegaselimit,S2 Sec 4.4,PC + adaptive,solved,9
+case13659pegaselimit,S2 Sec 4.4,OM,solved,8
+case13659pegaselimit,S2 Sec 4.4,OM + adaptive,solved,8
+case13659pegaselimit,S2 Sec 4.4,OM + PC,solved,8
+case13659pegaselimit,S2 Sec 4.4,OM + PC + adaptive,solved,8
+case13659pegaselimit,S2 Sec 4.4,richardson,solved,10
+case13659pegaselimit,S2 Sec 4.4,richardson + FE,solved,22
+case13659pegaselimit,S2 Sec 4.4,richardson + RK2,solved,31
+case13659pegaselimit,S2 Sec 4.4,richardson + RK4,solved,55
+case13659pegaselimit,S2 Sec 4.4,OM + richardson,solved,10
+case13659pegaselimit,S2 Sec 4.4,BE-chord,other root,9
+case13659pegaselimit,S2 Sec 4.4,RK4,failed,15
+case13659pegaselimit,S2 Sec 4.4,scaled homotopy,solved,8
+case13659pegaselimit,S2 Sec 4.4,newton homotopy,solved,9
+case13659pegaselimit,S3 Sec 4.4,paper,solved,7
+case13659pegaselimit,S3 Sec 4.4,adaptive,solved,7
+case13659pegaselimit,S3 Sec 4.4,PC,solved,9
+case13659pegaselimit,S3 Sec 4.4,PC + adaptive,solved,9
+case13659pegaselimit,S3 Sec 4.4,OM,solved,8
+case13659pegaselimit,S3 Sec 4.4,OM + adaptive,solved,8
+case13659pegaselimit,S3 Sec 4.4,OM + PC,solved,8
+case13659pegaselimit,S3 Sec 4.4,OM + PC + adaptive,solved,8
+case13659pegaselimit,S3 Sec 4.4,richardson,solved,10
+case13659pegaselimit,S3 Sec 4.4,richardson + FE,solved,23
+case13659pegaselimit,S3 Sec 4.4,richardson + RK2,solved,31
+case13659pegaselimit,S3 Sec 4.4,richardson + RK4,solved,43
+case13659pegaselimit,S3 Sec 4.4,OM + richardson,solved,10
+case13659pegaselimit,S3 Sec 4.4,BE-chord,other root,9
+case13659pegaselimit,S3 Sec 4.4,RK4,failed,15
+case13659pegaselimit,S3 Sec 4.4,scaled homotopy,solved,7
+case13659pegaselimit,S3 Sec 4.4,newton homotopy,solved,11
+case13659pegaselimit,S4 weak K,paper,other root,8
+case13659pegaselimit,S4 weak K,adaptive,other root,8
+case13659pegaselimit,S4 weak K,PC,other root,9
+case13659pegaselimit,S4 weak K,PC + adaptive,other root,9
+case13659pegaselimit,S4 weak K,OM,other root,7
+case13659pegaselimit,S4 weak K,OM + adaptive,other root,7
+case13659pegaselimit,S4 weak K,OM + PC,other root,9
+case13659pegaselimit,S4 weak K,OM + PC + adaptive,other root,9
+case13659pegaselimit,S4 weak K,richardson,other root,9
+case13659pegaselimit,S4 weak K,richardson + FE,solved,42
+case13659pegaselimit,S4 weak K,richardson + RK2,solved,54
+case13659pegaselimit,S4 weak K,richardson + RK4,solved,102
+case13659pegaselimit,S4 weak K,OM + richardson,other root,8
+case13659pegaselimit,S4 weak K,BE-chord,solved,9
+case13659pegaselimit,S4 weak K,RK4,failed,15
+case13659pegaselimit,S4 weak K,scaled homotopy,other root,8
+case13659pegaselimit,S4 weak K,newton homotopy,other root,9
+case13659pegaselimit,S5 strong K,paper,solved,8
+case13659pegaselimit,S5 strong K,adaptive,solved,8
+case13659pegaselimit,S5 strong K,PC,solved,9
+case13659pegaselimit,S5 strong K,PC + adaptive,solved,12
+case13659pegaselimit,S5 strong K,OM,solved,9
+case13659pegaselimit,S5 strong K,OM + adaptive,solved,9
+case13659pegaselimit,S5 strong K,OM + PC,solved,9
+case13659pegaselimit,S5 strong K,OM + PC + adaptive,solved,11
+case13659pegaselimit,S5 strong K,richardson,solved,15
+case13659pegaselimit,S5 strong K,richardson + FE,solved,33
+case13659pegaselimit,S5 strong K,richardson + RK2,solved,42
+case13659pegaselimit,S5 strong K,richardson + RK4,solved,78
+case13659pegaselimit,S5 strong K,OM + richardson,solved,14
+case13659pegaselimit,S5 strong K,BE-chord,other root,9
+case13659pegaselimit,S5 strong K,RK4,failed,15
+case13659pegaselimit,S5 strong K,scaled homotopy,solved,8
+case13659pegaselimit,S5 strong K,newton homotopy,other root,9

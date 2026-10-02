@@ -1,0 +1,17 @@
+__pycache__/
+.pytest_cache/
+data/cases/*.mat
+.local
+.venv
+venv
+
+# LaTeX build files of the report
+report/*.aux
+report/*.log
+report/*.lof
+report/*.lot
+report/*.out
+report/*.toc
+report/*.fls
+report/*.fdb_latexmk
+report/*.synctex.gz
